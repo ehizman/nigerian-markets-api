@@ -1,0 +1,121 @@
+{
+  "name": "Rivers",
+  "slug": "rivers",
+  "lgas": [
+    {
+      "name": "Abua/Odual",
+      "slug": "rivers-abua-odual",
+      "markets": []
+    },
+    {
+      "name": "Ahoada East",
+      "slug": "rivers-ahoada-east",
+      "markets": []
+    },
+    {
+      "name": "Ahoada West",
+      "slug": "rivers-ahoada-west",
+      "markets": []
+    },
+    {
+      "name": "Akuku-Toru",
+      "slug": "rivers-akuku-toru",
+      "markets": []
+    },
+    {
+      "name": "Andoni",
+      "slug": "rivers-andoni",
+      "markets": []
+    },
+    {
+      "name": "Asari-Toru",
+      "slug": "rivers-asari-toru",
+      "markets": []
+    },
+    {
+      "name": "Bonny",
+      "slug": "rivers-bonny",
+      "markets": []
+    },
+    {
+      "name": "Degema",
+      "slug": "rivers-degema",
+      "markets": []
+    },
+    {
+      "name": "Eleme",
+      "slug": "rivers-eleme",
+      "markets": []
+    },
+    {
+      "name": "Emohua",
+      "slug": "rivers-emohua",
+      "markets": []
+    },
+    {
+      "name": "Etche",
+      "slug": "rivers-etche",
+      "markets": []
+    },
+    {
+      "name": "Gokana",
+      "slug": "rivers-gokana",
+      "markets": []
+    },
+    {
+      "name": "Ikwerre",
+      "slug": "rivers-ikwerre",
+      "markets": []
+    },
+    {
+      "name": "Khana",
+      "slug": "rivers-khana",
+      "markets": []
+    },
+    {
+      "name": "Obio/Akpor",
+      "slug": "rivers-obio-akpor",
+      "markets": []
+    },
+    {
+      "name": "Ogba/Egbema/Ndoni",
+      "slug": "rivers-ogba-egbema-ndoni",
+      "markets": []
+    },
+    {
+      "name": "Ogu/Bolo",
+      "slug": "rivers-ogu-bolo",
+      "markets": []
+    },
+    {
+      "name": "Okrika",
+      "slug": "rivers-okrika",
+      "markets": []
+    },
+    {
+      "name": "Omuma",
+      "slug": "rivers-omuma",
+      "markets": []
+    },
+    {
+      "name": "Opobo/Nkoro",
+      "slug": "rivers-opobo-nkoro",
+      "markets": []
+    },
+    {
+      "name": "Oyigbo",
+      "slug": "rivers-oyigbo",
+      "markets": []
+    },
+    {
+      "name": "Port Harcourt",
+      "slug": "rivers-port-harcourt",
+      "markets": []
+    },
+    {
+      "name": "Tai",
+      "slug": "rivers-tai",
+      "markets": []
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "name": "Kano",
+  "slug": "kano",
+  "lgas": [
+    {
+      "name": "Ajingi",
+      "slug": "kano-ajingi",
+      "markets": []
+    },
+    {
+      "name": "Albasu",
+      "slug": "kano-albasu",
+      "markets": []
+    },
+    {
+      "name": "Bagwai",
+      "slug": "kano-bagwai",
+      "markets": []
+    },
+    {
+      "name": "Bebeji",
+      "slug": "kano-bebeji",
+      "markets": []
+    },
+    {
+      "name": "Bichi",
+      "slug": "kano-bichi",
+      "markets": []
+    },
+    {
+      "name": "Bunkure",
+      "slug": "kano-bunkure",
+      "markets": []
+    },
+    {
+      "name": "Dala",
+      "slug": "kano-dala",
+      "markets": []
+    },
+    {
+      "name": "Dambatta",
+      "slug": "kano-dambatta",
+      "markets": []
+    },
+    {
+      "name": "Dawakin Kudu",
+      "slug": "kano-dawakin-kudu",
+      "markets": []
+    },
+    {
+      "name": "Dawakin Tofa",
+      "slug": "kano-dawakin-tofa",
+      "markets": []
+    },
+    {
+      "name": "Doguwa",
+      "slug": "kano-doguwa",
+      "markets": []
+    },
+    {
+      "name": "Fagge",
+      "slug": "kano-fagge",
+      "markets": [
+        {
+          "name": "Kurmi Market",
+          "slug": "kurmi-market",
+          "coordinates": { "lat": 11.9964, "lng": 8.5167 },
+          "added_by": "ifihan"
+        },
+        {
+          "name": "Sabon Gari Market",
+          "slug": "sabon-gari-market-kano",
+          "coordinates": { "lat": 12.0022, "lng": 8.5270 },
+          "added_by": "ifihan"
+        }
+      ]
+    },
+    {
+      "name": "Gabasawa",
+      "slug": "kano-gabasawa",
+      "markets": []
+    },
+    {
+      "name": "Garko",
+      "slug": "kano-garko",
+      "markets": []
+    },
+    {
+      "name": "Garun Mallam",
+      "slug": "kano-garun-mallam",
+      "markets": []
+    },
+    {
+      "name": "Gaya",
+      "slug": "kano-gaya",
+      "markets": []
+    },
+    {
+      "name": "Gezawa",
+      "slug": "kano-gezawa",
+      "markets": []
+    },
+    {
+      "name": "Gwale",
+      "slug": "kano-gwale",
+      "markets": []
+    },
+    {
+      "name": "Gwarzo",
+      "slug": "kano-gwarzo",
+      "markets": []
+    },
+    {
+      "name": "Kabo",
+      "slug": "kano-kabo",
+      "markets": []
+    },
+    {
+      "name": "Kano Municipal",
+      "slug": "kano-kano-municipal",
+      "markets": [
+        {
+          "name": "Kantin Kwari Market",
+          "slug": "kantin-kwari-market",
+          "coordinates": { "lat": 11.9944, "lng": 8.5156 },
+          "added_by": "ifihan"
+        }
+      ]
+    },
+    {
+      "name": "Karaye",
+      "slug": "kano-karaye",
+      "markets": []
+    },
+    {
+      "name": "Kibiya",
+      "slug": "kano-kibiya",
+      "markets": []
+    },
+    {
+      "name": "Kiru",
+      "slug": "kano-kiru",
+      "markets": []
+    },
+    {
+      "name": "Kumbotso",
+      "slug": "kano-kumbotso",
+      "markets": []
+    },
+    {
+      "name": "Kunchi",
+      "slug": "kano-kunchi",
+      "markets": []
+    },
+    {
+      "name": "Kura",
+      "slug": "kano-kura",
+      "markets": []
+    },
+    {
+      "name": "Madobi",
+      "slug": "kano-madobi",
+      "markets": []
+    },
+    {
+      "name": "Makoda",
+      "slug": "kano-makoda",
+      "markets": []
+    },
+    {
+      "name": "Minjibir",
+      "slug": "kano-minjibir",
+      "markets": []
+    },
+    {
+      "name": "Nasarawa",
+      "slug": "kano-nasarawa",
+      "markets": []
+    },
+    {
+      "name": "Rano",
+      "slug": "kano-rano",
+      "markets": []
+    },
+    {
+      "name": "Rimin Gado",
+      "slug": "kano-rimin-gado",
+      "markets": []
+    },
+    {
+      "name": "Rogo",
+      "slug": "kano-rogo",
+      "markets": []
+    },
+    {
+      "name": "Shanono",
+      "slug": "kano-shanono",
+      "markets": []
+    },
+    {
+      "name": "Sumaila",
+      "slug": "kano-sumaila",
+      "markets": []
+    },
+    {
+      "name": "Takai",
+      "slug": "kano-takai",
+      "markets": []
+    },
+    {
+      "name": "Tarauni",
+      "slug": "kano-tarauni",
+      "markets": []
+    },
+    {
+      "name": "Tofa",
+      "slug": "kano-tofa",
+      "markets": []
+    },
+    {
+      "name": "Tsanyawa",
+      "slug": "kano-tsanyawa",
+      "markets": []
+    },
+    {
+      "name": "Tudun Wada",
+      "slug": "kano-tudun-wada",
+      "markets": []
+    },
+    {
+      "name": "Ungogo",
+      "slug": "kano-ungogo",
+      "markets": []
+    },
+    {
+      "name": "Warawa",
+      "slug": "kano-warawa",
+      "markets": []
+    },
+    {
+      "name": "Wudil",
+      "slug": "kano-wudil",
+      "markets": []
+    }
+  ]
+}

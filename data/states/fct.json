@@ -1,0 +1,62 @@
+{
+  "name": "Federal Capital Territory",
+  "slug": "fct",
+  "lgas": [
+    {
+      "name": "Abaji",
+      "slug": "fct-abaji",
+      "markets": []
+    },
+    {
+      "name": "Abuja Municipal",
+      "slug": "fct-abuja-municipal",
+      "markets": [
+        {
+          "name": "Wuse Market",
+          "slug": "wuse-market",
+          "coordinates": { "lat": 9.0579, "lng": 7.4891 },
+          "added_by": "ifihan"
+        },
+        {
+          "name": "Garki Market",
+          "slug": "garki-market",
+          "coordinates": { "lat": 9.0227, "lng": 7.4891 },
+          "added_by": "ifihan"
+        },
+        {
+          "name": "Utako Market",
+          "slug": "utako-market",
+          "coordinates": { "lat": 9.0726, "lng": 7.4416 },
+          "added_by": "ifihan"
+        }
+      ]
+    },
+    {
+      "name": "Bwari",
+      "slug": "fct-bwari",
+      "markets": []
+    },
+    {
+      "name": "Gwagwalada",
+      "slug": "fct-gwagwalada",
+      "markets": [
+        {
+          "name": "Gwagwalada Market",
+          "slug": "gwagwalada-market",
+          "coordinates": { "lat": 8.9432, "lng": 7.0843 },
+          "added_by": "ifihan"
+        }
+      ]
+    },
+    {
+      "name": "Kuje",
+      "slug": "fct-kuje",
+      "markets": []
+    },
+    {
+      "name": "Kwali",
+      "slug": "fct-kwali",
+      "markets": []
+    }
+  ]
+}

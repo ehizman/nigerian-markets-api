@@ -1,0 +1,86 @@
+{
+  "name": "Taraba",
+  "slug": "taraba",
+  "lgas": [
+    {
+      "name": "Ardo Kola",
+      "slug": "taraba-ardo-kola",
+      "markets": []
+    },
+    {
+      "name": "Bali",
+      "slug": "taraba-bali",
+      "markets": []
+    },
+    {
+      "name": "Donga",
+      "slug": "taraba-donga",
+      "markets": []
+    },
+    {
+      "name": "Gashaka",
+      "slug": "taraba-gashaka",
+      "markets": []
+    },
+    {
+      "name": "Gassol",
+      "slug": "taraba-gassol",
+      "markets": []
+    },
+    {
+      "name": "Ibi",
+      "slug": "taraba-ibi",
+      "markets": []
+    },
+    {
+      "name": "Jalingo",
+      "slug": "taraba-jalingo",
+      "markets": []
+    },
+    {
+      "name": "Karim Lamido",
+      "slug": "taraba-karim-lamido",
+      "markets": []
+    },
+    {
+      "name": "Kumi",
+      "slug": "taraba-kumi",
+      "markets": []
+    },
+    {
+      "name": "Lau",
+      "slug": "taraba-lau",
+      "markets": []
+    },
+    {
+      "name": "Sardauna",
+      "slug": "taraba-sardauna",
+      "markets": []
+    },
+    {
+      "name": "Takum",
+      "slug": "taraba-takum",
+      "markets": []
+    },
+    {
+      "name": "Ussa",
+      "slug": "taraba-ussa",
+      "markets": []
+    },
+    {
+      "name": "Wukari",
+      "slug": "taraba-wukari",
+      "markets": []
+    },
+    {
+      "name": "Yorro",
+      "slug": "taraba-yorro",
+      "markets": []
+    },
+    {
+      "name": "Zing",
+      "slug": "taraba-zing",
+      "markets": []
+    }
+  ]
+}

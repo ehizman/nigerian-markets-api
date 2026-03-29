@@ -1,0 +1,141 @@
+{
+  "name": "Jigawa",
+  "slug": "jigawa",
+  "lgas": [
+    {
+      "name": "Auyo",
+      "slug": "jigawa-auyo",
+      "markets": []
+    },
+    {
+      "name": "Babura",
+      "slug": "jigawa-babura",
+      "markets": []
+    },
+    {
+      "name": "Biriniwa",
+      "slug": "jigawa-biriniwa",
+      "markets": []
+    },
+    {
+      "name": "Birnin Kudu",
+      "slug": "jigawa-birnin-kudu",
+      "markets": []
+    },
+    {
+      "name": "Buji",
+      "slug": "jigawa-buji",
+      "markets": []
+    },
+    {
+      "name": "Dutse",
+      "slug": "jigawa-dutse",
+      "markets": []
+    },
+    {
+      "name": "Gagarawa",
+      "slug": "jigawa-gagarawa",
+      "markets": []
+    },
+    {
+      "name": "Garki",
+      "slug": "jigawa-garki",
+      "markets": []
+    },
+    {
+      "name": "Gumel",
+      "slug": "jigawa-gumel",
+      "markets": []
+    },
+    {
+      "name": "Guri",
+      "slug": "jigawa-guri",
+      "markets": []
+    },
+    {
+      "name": "Gwaram",
+      "slug": "jigawa-gwaram",
+      "markets": []
+    },
+    {
+      "name": "Gwiwa",
+      "slug": "jigawa-gwiwa",
+      "markets": []
+    },
+    {
+      "name": "Hadejia",
+      "slug": "jigawa-hadejia",
+      "markets": []
+    },
+    {
+      "name": "Jahun",
+      "slug": "jigawa-jahun",
+      "markets": []
+    },
+    {
+      "name": "Kafin Hausa",
+      "slug": "jigawa-kafin-hausa",
+      "markets": []
+    },
+    {
+      "name": "Kaugama",
+      "slug": "jigawa-kaugama",
+      "markets": []
+    },
+    {
+      "name": "Kazaure",
+      "slug": "jigawa-kazaure",
+      "markets": []
+    },
+    {
+      "name": "Kiri Kasama",
+      "slug": "jigawa-kiri-kasama",
+      "markets": []
+    },
+    {
+      "name": "Kiyawa",
+      "slug": "jigawa-kiyawa",
+      "markets": []
+    },
+    {
+      "name": "Maigatari",
+      "slug": "jigawa-maigatari",
+      "markets": []
+    },
+    {
+      "name": "Malam Madori",
+      "slug": "jigawa-malam-madori",
+      "markets": []
+    },
+    {
+      "name": "Miga",
+      "slug": "jigawa-miga",
+      "markets": []
+    },
+    {
+      "name": "Ringim",
+      "slug": "jigawa-ringim",
+      "markets": []
+    },
+    {
+      "name": "Roni",
+      "slug": "jigawa-roni",
+      "markets": []
+    },
+    {
+      "name": "Sule Tankarkar",
+      "slug": "jigawa-sule-tankarkar",
+      "markets": []
+    },
+    {
+      "name": "Taura",
+      "slug": "jigawa-taura",
+      "markets": []
+    },
+    {
+      "name": "Yankwashi",
+      "slug": "jigawa-yankwashi",
+      "markets": []
+    }
+  ]
+}

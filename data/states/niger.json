@@ -1,0 +1,131 @@
+{
+  "name": "Niger",
+  "slug": "niger",
+  "lgas": [
+    {
+      "name": "Agaie",
+      "slug": "niger-agaie",
+      "markets": []
+    },
+    {
+      "name": "Agwara",
+      "slug": "niger-agwara",
+      "markets": []
+    },
+    {
+      "name": "Bida",
+      "slug": "niger-bida",
+      "markets": []
+    },
+    {
+      "name": "Borgu",
+      "slug": "niger-borgu",
+      "markets": []
+    },
+    {
+      "name": "Bosso",
+      "slug": "niger-bosso",
+      "markets": []
+    },
+    {
+      "name": "Chanchaga",
+      "slug": "niger-chanchaga",
+      "markets": []
+    },
+    {
+      "name": "Edatti",
+      "slug": "niger-edatti",
+      "markets": []
+    },
+    {
+      "name": "Gbako",
+      "slug": "niger-gbako",
+      "markets": []
+    },
+    {
+      "name": "Gurara",
+      "slug": "niger-gurara",
+      "markets": []
+    },
+    {
+      "name": "Katcha",
+      "slug": "niger-katcha",
+      "markets": []
+    },
+    {
+      "name": "Kontagora",
+      "slug": "niger-kontagora",
+      "markets": []
+    },
+    {
+      "name": "Lapai",
+      "slug": "niger-lapai",
+      "markets": []
+    },
+    {
+      "name": "Lavun",
+      "slug": "niger-lavun",
+      "markets": []
+    },
+    {
+      "name": "Magama",
+      "slug": "niger-magama",
+      "markets": []
+    },
+    {
+      "name": "Mariga",
+      "slug": "niger-mariga",
+      "markets": []
+    },
+    {
+      "name": "Mashegu",
+      "slug": "niger-mashegu",
+      "markets": []
+    },
+    {
+      "name": "Mokwa",
+      "slug": "niger-mokwa",
+      "markets": []
+    },
+    {
+      "name": "Moya",
+      "slug": "niger-moya",
+      "markets": []
+    },
+    {
+      "name": "Paikoro",
+      "slug": "niger-paikoro",
+      "markets": []
+    },
+    {
+      "name": "Rafi",
+      "slug": "niger-rafi",
+      "markets": []
+    },
+    {
+      "name": "Rijau",
+      "slug": "niger-rijau",
+      "markets": []
+    },
+    {
+      "name": "Shiroro",
+      "slug": "niger-shiroro",
+      "markets": []
+    },
+    {
+      "name": "Suleja",
+      "slug": "niger-suleja",
+      "markets": []
+    },
+    {
+      "name": "Tafa",
+      "slug": "niger-tafa",
+      "markets": []
+    },
+    {
+      "name": "Wushishi",
+      "slug": "niger-wushishi",
+      "markets": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Kwara",
+  "slug": "kwara",
+  "lgas": [
+    {
+      "name": "Asa",
+      "slug": "kwara-asa",
+      "markets": []
+    },
+    {
+      "name": "Baruten",
+      "slug": "kwara-baruten",
+      "markets": []
+    },
+    {
+      "name": "Edu",
+      "slug": "kwara-edu",
+      "markets": []
+    },
+    {
+      "name": "Ekiti",
+      "slug": "kwara-ekiti",
+      "markets": []
+    },
+    {
+      "name": "Ifelodun",
+      "slug": "kwara-ifelodun",
+      "markets": []
+    },
+    {
+      "name": "Ilorin East",
+      "slug": "kwara-ilorin-east",
+      "markets": []
+    },
+    {
+      "name": "Ilorin South",
+      "slug": "kwara-ilorin-south",
+      "markets": []
+    },
+    {
+      "name": "Ilorin West",
+      "slug": "kwara-ilorin-west",
+      "markets": []
+    },
+    {
+      "name": "Irepodun",
+      "slug": "kwara-irepodun",
+      "markets": []
+    },
+    {
+      "name": "Isin",
+      "slug": "kwara-isin",
+      "markets": []
+    },
+    {
+      "name": "Kaiama",
+      "slug": "kwara-kaiama",
+      "markets": []
+    },
+    {
+      "name": "Moro",
+      "slug": "kwara-moro",
+      "markets": []
+    },
+    {
+      "name": "Offa",
+      "slug": "kwara-offa",
+      "markets": []
+    },
+    {
+      "name": "Oke Ero",
+      "slug": "kwara-oke-ero",
+      "markets": []
+    },
+    {
+      "name": "Oyun",
+      "slug": "kwara-oyun",
+      "markets": []
+    },
+    {
+      "name": "Pategi",
+      "slug": "kwara-pategi",
+      "markets": []
+    }
+  ]
+}

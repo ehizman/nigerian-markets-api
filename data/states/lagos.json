@@ -1,0 +1,159 @@
+{
+  "name": "Lagos",
+  "slug": "lagos",
+  "lgas": [
+    {
+      "name": "Agege",
+      "slug": "lagos-agege",
+      "markets": []
+    },
+    {
+      "name": "Ajeromi-Ifelodun",
+      "slug": "lagos-ajeromi-ifelodun",
+      "markets": []
+    },
+    {
+      "name": "Alimosho",
+      "slug": "lagos-alimosho",
+      "markets": []
+    },
+    {
+      "name": "Amuwo-Odofin",
+      "slug": "lagos-amuwo-odofin",
+      "markets": []
+    },
+    {
+      "name": "Apapa",
+      "slug": "lagos-apapa",
+      "markets": []
+    },
+    {
+      "name": "Badagry",
+      "slug": "lagos-badagry",
+      "markets": []
+    },
+    {
+      "name": "Epe",
+      "slug": "lagos-epe",
+      "markets": []
+    },
+    {
+      "name": "Eti-Osa",
+      "slug": "lagos-eti-osa",
+      "markets": [
+        {
+          "name": "Lekki Market",
+          "slug": "lekki-market",
+          "coordinates": { "lat": 6.4698, "lng": 3.5852 },
+          "added_by": "ifihan"
+        },
+        {
+          "name": "Ajah Market",
+          "slug": "ajah-market",
+          "coordinates": { "lat": 6.4698, "lng": 3.5986 },
+          "added_by": "ifihan"
+        }
+      ]
+    },
+    {
+      "name": "Ibeju-Lekki",
+      "slug": "lagos-ibeju-lekki",
+      "markets": []
+    },
+    {
+      "name": "Ifako-Ijaiye",
+      "slug": "lagos-ifako-ijaiye",
+      "markets": []
+    },
+    {
+      "name": "Ikeja",
+      "slug": "lagos-ikeja",
+      "markets": []
+    },
+    {
+      "name": "Ikorodu",
+      "slug": "lagos-ikorodu",
+      "markets": []
+    },
+    {
+      "name": "Kosofe",
+      "slug": "lagos-kosofe",
+      "markets": []
+    },
+    {
+      "name": "Lagos Island",
+      "slug": "lagos-lagos-island",
+      "markets": [
+        {
+          "name": "Balogun Market",
+          "slug": "balogun-market",
+          "coordinates": { "lat": 6.4541, "lng": 3.3947 },
+          "added_by": "ifihan"
+        },
+        {
+          "name": "Idumota Market",
+          "slug": "idumota-market",
+          "coordinates": { "lat": 6.4568, "lng": 3.3892 },
+          "added_by": "ifihan"
+        }
+      ]
+    },
+    {
+      "name": "Lagos Mainland",
+      "slug": "lagos-lagos-mainland",
+      "markets": []
+    },
+    {
+      "name": "Mushin",
+      "slug": "lagos-mushin",
+      "markets": [
+        {
+          "name": "Mushin Market",
+          "slug": "mushin-market",
+          "coordinates": { "lat": 6.5244, "lng": 3.3508 },
+          "added_by": "ifihan"
+        }
+      ]
+    },
+    {
+      "name": "Ojo",
+      "slug": "lagos-ojo",
+      "markets": []
+    },
+    {
+      "name": "Oshodi-Isolo",
+      "slug": "lagos-oshodi-isolo",
+      "markets": [
+        {
+          "name": "Oshodi Market",
+          "slug": "oshodi-market",
+          "coordinates": { "lat": 6.5569, "lng": 3.3415 },
+          "added_by": "ifihan"
+        },
+        {
+          "name": "Mile 12 Market",
+          "slug": "mile-12-market",
+          "coordinates": { "lat": 6.5963, "lng": 3.3933 },
+          "added_by": "ifihan"
+        }
+      ]
+    },
+    {
+      "name": "Shomolu",
+      "slug": "lagos-shomolu",
+      "markets": []
+    },
+    {
+      "name": "Surulere",
+      "slug": "lagos-surulere",
+      "markets": [
+        {
+          "name": "Tejuosho Market",
+          "slug": "tejuosho-market",
+          "coordinates": { "lat": 6.5060, "lng": 3.3595 },
+          "added_by": "ifihan"
+        }
+      ]
+    }
+  ]
+}

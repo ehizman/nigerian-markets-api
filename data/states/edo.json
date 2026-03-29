@@ -1,0 +1,96 @@
+{
+  "name": "Edo",
+  "slug": "edo",
+  "lgas": [
+    {
+      "name": "Akoko-Edo",
+      "slug": "edo-akoko-edo",
+      "markets": []
+    },
+    {
+      "name": "Egor",
+      "slug": "edo-egor",
+      "markets": []
+    },
+    {
+      "name": "Esan Central",
+      "slug": "edo-esan-central",
+      "markets": []
+    },
+    {
+      "name": "Esan North-East",
+      "slug": "edo-esan-north-east",
+      "markets": []
+    },
+    {
+      "name": "Esan South-East",
+      "slug": "edo-esan-south-east",
+      "markets": []
+    },
+    {
+      "name": "Esan West",
+      "slug": "edo-esan-west",
+      "markets": []
+    },
+    {
+      "name": "Etsako Central",
+      "slug": "edo-etsako-central",
+      "markets": []
+    },
+    {
+      "name": "Etsako East",
+      "slug": "edo-etsako-east",
+      "markets": []
+    },
+    {
+      "name": "Etsako West",
+      "slug": "edo-etsako-west",
+      "markets": []
+    },
+    {
+      "name": "Igueben",
+      "slug": "edo-igueben",
+      "markets": []
+    },
+    {
+      "name": "Ikpoba-Okha",
+      "slug": "edo-ikpoba-okha",
+      "markets": []
+    },
+    {
+      "name": "Oredo",
+      "slug": "edo-oredo",
+      "markets": []
+    },
+    {
+      "name": "Orhionmwon",
+      "slug": "edo-orhionmwon",
+      "markets": []
+    },
+    {
+      "name": "Ovia North-East",
+      "slug": "edo-ovia-north-east",
+      "markets": []
+    },
+    {
+      "name": "Ovia South-West",
+      "slug": "edo-ovia-south-west",
+      "markets": []
+    },
+    {
+      "name": "Owan East",
+      "slug": "edo-owan-east",
+      "markets": []
+    },
+    {
+      "name": "Owan West",
+      "slug": "edo-owan-west",
+      "markets": []
+    },
+    {
+      "name": "Uhunmwonde",
+      "slug": "edo-uhunmwonde",
+      "markets": []
+    }
+  ]
+}

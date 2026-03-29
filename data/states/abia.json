@@ -1,0 +1,91 @@
+{
+  "name": "Abia",
+  "slug": "abia",
+  "lgas": [
+    {
+      "name": "Aba North",
+      "slug": "abia-aba-north",
+      "markets": []
+    },
+    {
+      "name": "Aba South",
+      "slug": "abia-aba-south",
+      "markets": []
+    },
+    {
+      "name": "Arochukwu",
+      "slug": "abia-arochukwu",
+      "markets": []
+    },
+    {
+      "name": "Bende",
+      "slug": "abia-bende",
+      "markets": []
+    },
+    {
+      "name": "Ikwuano",
+      "slug": "abia-ikwuano",
+      "markets": []
+    },
+    {
+      "name": "Isiala Ngwa North",
+      "slug": "abia-isiala-ngwa-north",
+      "markets": []
+    },
+    {
+      "name": "Isiala Ngwa South",
+      "slug": "abia-isiala-ngwa-south",
+      "markets": []
+    },
+    {
+      "name": "Isuikwuato",
+      "slug": "abia-isuikwuato",
+      "markets": []
+    },
+    {
+      "name": "Obi Ngwa",
+      "slug": "abia-obi-ngwa",
+      "markets": []
+    },
+    {
+      "name": "Ohafia",
+      "slug": "abia-ohafia",
+      "markets": []
+    },
+    {
+      "name": "Osisioma Ngwa",
+      "slug": "abia-osisioma-ngwa",
+      "markets": []
+    },
+    {
+      "name": "Ugwunagbo",
+      "slug": "abia-ugwunagbo",
+      "markets": []
+    },
+    {
+      "name": "Ukwa East",
+      "slug": "abia-ukwa-east",
+      "markets": []
+    },
+    {
+      "name": "Ukwa West",
+      "slug": "abia-ukwa-west",
+      "markets": []
+    },
+    {
+      "name": "Umuahia North",
+      "slug": "abia-umuahia-north",
+      "markets": []
+    },
+    {
+      "name": "Umuahia South",
+      "slug": "abia-umuahia-south",
+      "markets": []
+    },
+    {
+      "name": "Umu Nneochi",
+      "slug": "abia-umu-nneochi",
+      "markets": []
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "name": "Akwa Ibom",
+  "slug": "akwa-ibom",
+  "lgas": [
+    {
+      "name": "Abak",
+      "slug": "akwa-ibom-abak",
+      "markets": []
+    },
+    {
+      "name": "Eastern Obolo",
+      "slug": "akwa-ibom-eastern-obolo",
+      "markets": []
+    },
+    {
+      "name": "Eket",
+      "slug": "akwa-ibom-eket",
+      "markets": []
+    },
+    {
+      "name": "Esit Eket",
+      "slug": "akwa-ibom-esit-eket",
+      "markets": []
+    },
+    {
+      "name": "Essien Udim",
+      "slug": "akwa-ibom-essien-udim",
+      "markets": []
+    },
+    {
+      "name": "Etim Ekpo",
+      "slug": "akwa-ibom-etim-ekpo",
+      "markets": []
+    },
+    {
+      "name": "Etinan",
+      "slug": "akwa-ibom-etinan",
+      "markets": []
+    },
+    {
+      "name": "Ibeno",
+      "slug": "akwa-ibom-ibeno",
+      "markets": []
+    },
+    {
+      "name": "Ibesikpo Asutan",
+      "slug": "akwa-ibom-ibesikpo-asutan",
+      "markets": []
+    },
+    {
+      "name": "Ibiono Ibom",
+      "slug": "akwa-ibom-ibiono-ibom",
+      "markets": []
+    },
+    {
+      "name": "Ika",
+      "slug": "akwa-ibom-ika",
+      "markets": []
+    },
+    {
+      "name": "Ikono",
+      "slug": "akwa-ibom-ikono",
+      "markets": []
+    },
+    {
+      "name": "Ikot Abasi",
+      "slug": "akwa-ibom-ikot-abasi",
+      "markets": []
+    },
+    {
+      "name": "Ikot Ekpene",
+      "slug": "akwa-ibom-ikot-ekpene",
+      "markets": []
+    },
+    {
+      "name": "Ini",
+      "slug": "akwa-ibom-ini",
+      "markets": []
+    },
+    {
+      "name": "Itu",
+      "slug": "akwa-ibom-itu",
+      "markets": []
+    },
+    {
+      "name": "Mbo",
+      "slug": "akwa-ibom-mbo",
+      "markets": []
+    },
+    {
+      "name": "Mkpat Enin",
+      "slug": "akwa-ibom-mkpat-enin",
+      "markets": []
+    },
+    {
+      "name": "Nsit Atai",
+      "slug": "akwa-ibom-nsit-atai",
+      "markets": []
+    },
+    {
+      "name": "Nsit Ibom",
+      "slug": "akwa-ibom-nsit-ibom",
+      "markets": []
+    },
+    {
+      "name": "Nsit Ubium",
+      "slug": "akwa-ibom-nsit-ubium",
+      "markets": []
+    },
+    {
+      "name": "Obot Akara",
+      "slug": "akwa-ibom-obot-akara",
+      "markets": []
+    },
+    {
+      "name": "Okobo",
+      "slug": "akwa-ibom-okobo",
+      "markets": []
+    },
+    {
+      "name": "Onna",
+      "slug": "akwa-ibom-onna",
+      "markets": []
+    },
+    {
+      "name": "Oron",
+      "slug": "akwa-ibom-oron",
+      "markets": []
+    },
+    {
+      "name": "Oruk Anam",
+      "slug": "akwa-ibom-oruk-anam",
+      "markets": []
+    },
+    {
+      "name": "Udung Uko",
+      "slug": "akwa-ibom-udung-uko",
+      "markets": []
+    },
+    {
+      "name": "Ukanafun",
+      "slug": "akwa-ibom-ukanafun",
+      "markets": []
+    },
+    {
+      "name": "Uruan",
+      "slug": "akwa-ibom-uruan",
+      "markets": []
+    },
+    {
+      "name": "Urue-Offong/Oruko",
+      "slug": "akwa-ibom-urue-offong-oruko",
+      "markets": []
+    },
+    {
+      "name": "Uyo",
+      "slug": "akwa-ibom-uyo",
+      "markets": []
+    }
+  ]
+}

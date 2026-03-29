@@ -1,0 +1,171 @@
+{
+  "name": "Oyo",
+  "slug": "oyo",
+  "lgas": [
+    {
+      "name": "Afijio",
+      "slug": "oyo-afijio",
+      "markets": []
+    },
+    {
+      "name": "Akinyele",
+      "slug": "oyo-akinyele",
+      "markets": []
+    },
+    {
+      "name": "Atiba",
+      "slug": "oyo-atiba",
+      "markets": []
+    },
+    {
+      "name": "Atisbo",
+      "slug": "oyo-atisbo",
+      "markets": []
+    },
+    {
+      "name": "Egbeda",
+      "slug": "oyo-egbeda",
+      "markets": []
+    },
+    {
+      "name": "Ibadan North",
+      "slug": "oyo-ibadan-north",
+      "markets": []
+    },
+    {
+      "name": "Ibadan North-East",
+      "slug": "oyo-ibadan-north-east",
+      "markets": []
+    },
+    {
+      "name": "Ibadan North-West",
+      "slug": "oyo-ibadan-north-west",
+      "markets": []
+    },
+    {
+      "name": "Ibadan South-East",
+      "slug": "oyo-ibadan-south-east",
+      "markets": []
+    },
+    {
+      "name": "Ibadan South-West",
+      "slug": "oyo-ibadan-south-west",
+      "markets": []
+    },
+    {
+      "name": "Ibarapa Central",
+      "slug": "oyo-ibarapa-central",
+      "markets": []
+    },
+    {
+      "name": "Ibarapa East",
+      "slug": "oyo-ibarapa-east",
+      "markets": []
+    },
+    {
+      "name": "Ibarapa North",
+      "slug": "oyo-ibarapa-north",
+      "markets": []
+    },
+    {
+      "name": "Ido",
+      "slug": "oyo-ido",
+      "markets": []
+    },
+    {
+      "name": "Irepo",
+      "slug": "oyo-irepo",
+      "markets": []
+    },
+    {
+      "name": "Iseyin",
+      "slug": "oyo-iseyin",
+      "markets": []
+    },
+    {
+      "name": "Itesiwaju",
+      "slug": "oyo-itesiwaju",
+      "markets": []
+    },
+    {
+      "name": "Iwajowa",
+      "slug": "oyo-iwajowa",
+      "markets": []
+    },
+    {
+      "name": "Kajola",
+      "slug": "oyo-kajola",
+      "markets": []
+    },
+    {
+      "name": "Lagelu",
+      "slug": "oyo-lagelu",
+      "markets": []
+    },
+    {
+      "name": "Ogo Oluwa",
+      "slug": "oyo-ogo-oluwa",
+      "markets": []
+    },
+    {
+      "name": "Ogbomosho North",
+      "slug": "oyo-ogbomosho-north",
+      "markets": []
+    },
+    {
+      "name": "Ogbomosho South",
+      "slug": "oyo-ogbomosho-south",
+      "markets": []
+    },
+    {
+      "name": "Olorunsogo",
+      "slug": "oyo-olorunsogo",
+      "markets": []
+    },
+    {
+      "name": "Oluyole",
+      "slug": "oyo-oluyole",
+      "markets": []
+    },
+    {
+      "name": "Ona Ara",
+      "slug": "oyo-ona-ara",
+      "markets": []
+    },
+    {
+      "name": "Orelope",
+      "slug": "oyo-orelope",
+      "markets": []
+    },
+    {
+      "name": "Ori Ire",
+      "slug": "oyo-ori-ire",
+      "markets": []
+    },
+    {
+      "name": "Oyo East",
+      "slug": "oyo-oyo-east",
+      "markets": []
+    },
+    {
+      "name": "Oyo West",
+      "slug": "oyo-oyo-west",
+      "markets": []
+    },
+    {
+      "name": "Saki East",
+      "slug": "oyo-saki-east",
+      "markets": []
+    },
+    {
+      "name": "Saki West",
+      "slug": "oyo-saki-west",
+      "markets": []
+    },
+    {
+      "name": "Surulere",
+      "slug": "oyo-surulere",
+      "markets": []
+    }
+  ]
+}

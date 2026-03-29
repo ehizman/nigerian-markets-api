@@ -1,0 +1,76 @@
+{
+  "name": "Zamfara",
+  "slug": "zamfara",
+  "lgas": [
+    {
+      "name": "Anka",
+      "slug": "zamfara-anka",
+      "markets": []
+    },
+    {
+      "name": "Bakura",
+      "slug": "zamfara-bakura",
+      "markets": []
+    },
+    {
+      "name": "Birnin Magaji/Kiyaw",
+      "slug": "zamfara-birnin-magaji-kiyaw",
+      "markets": []
+    },
+    {
+      "name": "Bukkuyum",
+      "slug": "zamfara-bukkuyum",
+      "markets": []
+    },
+    {
+      "name": "Bungudu",
+      "slug": "zamfara-bungudu",
+      "markets": []
+    },
+    {
+      "name": "Gummi",
+      "slug": "zamfara-gummi",
+      "markets": []
+    },
+    {
+      "name": "Gusau",
+      "slug": "zamfara-gusau",
+      "markets": []
+    },
+    {
+      "name": "Kaura Namoda",
+      "slug": "zamfara-kaura-namoda",
+      "markets": []
+    },
+    {
+      "name": "Maradun",
+      "slug": "zamfara-maradun",
+      "markets": []
+    },
+    {
+      "name": "Maru",
+      "slug": "zamfara-maru",
+      "markets": []
+    },
+    {
+      "name": "Shinkafi",
+      "slug": "zamfara-shinkafi",
+      "markets": []
+    },
+    {
+      "name": "Talata Mafara",
+      "slug": "zamfara-talata-mafara",
+      "markets": []
+    },
+    {
+      "name": "Tsafe",
+      "slug": "zamfara-tsafe",
+      "markets": []
+    },
+    {
+      "name": "Zurmi",
+      "slug": "zamfara-zurmi",
+      "markets": []
+    }
+  ]
+}

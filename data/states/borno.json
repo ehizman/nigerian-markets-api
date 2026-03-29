@@ -1,0 +1,141 @@
+{
+  "name": "Borno",
+  "slug": "borno",
+  "lgas": [
+    {
+      "name": "Abadam",
+      "slug": "borno-abadam",
+      "markets": []
+    },
+    {
+      "name": "Askira/Uba",
+      "slug": "borno-askira-uba",
+      "markets": []
+    },
+    {
+      "name": "Bama",
+      "slug": "borno-bama",
+      "markets": []
+    },
+    {
+      "name": "Bayo",
+      "slug": "borno-bayo",
+      "markets": []
+    },
+    {
+      "name": "Biu",
+      "slug": "borno-biu",
+      "markets": []
+    },
+    {
+      "name": "Chibok",
+      "slug": "borno-chibok",
+      "markets": []
+    },
+    {
+      "name": "Damboa",
+      "slug": "borno-damboa",
+      "markets": []
+    },
+    {
+      "name": "Dikwa",
+      "slug": "borno-dikwa",
+      "markets": []
+    },
+    {
+      "name": "Gubio",
+      "slug": "borno-gubio",
+      "markets": []
+    },
+    {
+      "name": "Guzamala",
+      "slug": "borno-guzamala",
+      "markets": []
+    },
+    {
+      "name": "Gwoza",
+      "slug": "borno-gwoza",
+      "markets": []
+    },
+    {
+      "name": "Hawul",
+      "slug": "borno-hawul",
+      "markets": []
+    },
+    {
+      "name": "Jere",
+      "slug": "borno-jere",
+      "markets": []
+    },
+    {
+      "name": "Kaga",
+      "slug": "borno-kaga",
+      "markets": []
+    },
+    {
+      "name": "Kala/Balge",
+      "slug": "borno-kala-balge",
+      "markets": []
+    },
+    {
+      "name": "Konduga",
+      "slug": "borno-konduga",
+      "markets": []
+    },
+    {
+      "name": "Kukawa",
+      "slug": "borno-kukawa",
+      "markets": []
+    },
+    {
+      "name": "Kwaya Kusar",
+      "slug": "borno-kwaya-kusar",
+      "markets": []
+    },
+    {
+      "name": "Mafa",
+      "slug": "borno-mafa",
+      "markets": []
+    },
+    {
+      "name": "Magumeri",
+      "slug": "borno-magumeri",
+      "markets": []
+    },
+    {
+      "name": "Maiduguri",
+      "slug": "borno-maiduguri",
+      "markets": []
+    },
+    {
+      "name": "Marte",
+      "slug": "borno-marte",
+      "markets": []
+    },
+    {
+      "name": "Mobbar",
+      "slug": "borno-mobbar",
+      "markets": []
+    },
+    {
+      "name": "Monguno",
+      "slug": "borno-monguno",
+      "markets": []
+    },
+    {
+      "name": "Ngala",
+      "slug": "borno-ngala",
+      "markets": []
+    },
+    {
+      "name": "Nganzai",
+      "slug": "borno-nganzai",
+      "markets": []
+    },
+    {
+      "name": "Shani",
+      "slug": "borno-shani",
+      "markets": []
+    }
+  ]
+}

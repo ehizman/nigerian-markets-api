@@ -1,0 +1,86 @@
+{
+  "name": "Ekiti",
+  "slug": "ekiti",
+  "lgas": [
+    {
+      "name": "Ado Ekiti",
+      "slug": "ekiti-ado-ekiti",
+      "markets": []
+    },
+    {
+      "name": "Efon",
+      "slug": "ekiti-efon",
+      "markets": []
+    },
+    {
+      "name": "Ekiti East",
+      "slug": "ekiti-ekiti-east",
+      "markets": []
+    },
+    {
+      "name": "Ekiti South-West",
+      "slug": "ekiti-ekiti-south-west",
+      "markets": []
+    },
+    {
+      "name": "Ekiti West",
+      "slug": "ekiti-ekiti-west",
+      "markets": []
+    },
+    {
+      "name": "Emure",
+      "slug": "ekiti-emure",
+      "markets": []
+    },
+    {
+      "name": "Gbonyin",
+      "slug": "ekiti-gbonyin",
+      "markets": []
+    },
+    {
+      "name": "Ido Osi",
+      "slug": "ekiti-ido-osi",
+      "markets": []
+    },
+    {
+      "name": "Ijero",
+      "slug": "ekiti-ijero",
+      "markets": []
+    },
+    {
+      "name": "Ikere",
+      "slug": "ekiti-ikere",
+      "markets": []
+    },
+    {
+      "name": "Ikole",
+      "slug": "ekiti-ikole",
+      "markets": []
+    },
+    {
+      "name": "Ilejemeje",
+      "slug": "ekiti-ilejemeje",
+      "markets": []
+    },
+    {
+      "name": "Irepodun/Ifelodun",
+      "slug": "ekiti-irepodun-ifelodun",
+      "markets": []
+    },
+    {
+      "name": "Ise/Orun",
+      "slug": "ekiti-ise-orun",
+      "markets": []
+    },
+    {
+      "name": "Moba",
+      "slug": "ekiti-moba",
+      "markets": []
+    },
+    {
+      "name": "Oye",
+      "slug": "ekiti-oye",
+      "markets": []
+    }
+  ]
+}

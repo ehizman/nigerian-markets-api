@@ -1,0 +1,156 @@
+{
+  "name": "Osun",
+  "slug": "osun",
+  "lgas": [
+    {
+      "name": "Aiyedaade",
+      "slug": "osun-aiyedaade",
+      "markets": []
+    },
+    {
+      "name": "Aiyedire",
+      "slug": "osun-aiyedire",
+      "markets": []
+    },
+    {
+      "name": "Atakunmosa East",
+      "slug": "osun-atakunmosa-east",
+      "markets": []
+    },
+    {
+      "name": "Atakunmosa West",
+      "slug": "osun-atakunmosa-west",
+      "markets": []
+    },
+    {
+      "name": "Boluwaduro",
+      "slug": "osun-boluwaduro",
+      "markets": []
+    },
+    {
+      "name": "Boripe",
+      "slug": "osun-boripe",
+      "markets": []
+    },
+    {
+      "name": "Ede North",
+      "slug": "osun-ede-north",
+      "markets": []
+    },
+    {
+      "name": "Ede South",
+      "slug": "osun-ede-south",
+      "markets": []
+    },
+    {
+      "name": "Egbedore",
+      "slug": "osun-egbedore",
+      "markets": []
+    },
+    {
+      "name": "Ejigbo",
+      "slug": "osun-ejigbo",
+      "markets": []
+    },
+    {
+      "name": "Ife Central",
+      "slug": "osun-ife-central",
+      "markets": []
+    },
+    {
+      "name": "Ife East",
+      "slug": "osun-ife-east",
+      "markets": []
+    },
+    {
+      "name": "Ife North",
+      "slug": "osun-ife-north",
+      "markets": []
+    },
+    {
+      "name": "Ife South",
+      "slug": "osun-ife-south",
+      "markets": []
+    },
+    {
+      "name": "Ifedayo",
+      "slug": "osun-ifedayo",
+      "markets": []
+    },
+    {
+      "name": "Ifelodun",
+      "slug": "osun-ifelodun",
+      "markets": []
+    },
+    {
+      "name": "Ila",
+      "slug": "osun-ila",
+      "markets": []
+    },
+    {
+      "name": "Ilesa East",
+      "slug": "osun-ilesa-east",
+      "markets": []
+    },
+    {
+      "name": "Ilesa West",
+      "slug": "osun-ilesa-west",
+      "markets": []
+    },
+    {
+      "name": "Irepodun",
+      "slug": "osun-irepodun",
+      "markets": []
+    },
+    {
+      "name": "Irewole",
+      "slug": "osun-irewole",
+      "markets": []
+    },
+    {
+      "name": "Isokan",
+      "slug": "osun-isokan",
+      "markets": []
+    },
+    {
+      "name": "Iwo",
+      "slug": "osun-iwo",
+      "markets": []
+    },
+    {
+      "name": "Obokun",
+      "slug": "osun-obokun",
+      "markets": []
+    },
+    {
+      "name": "Odo Otin",
+      "slug": "osun-odo-otin",
+      "markets": []
+    },
+    {
+      "name": "Ola Oluwa",
+      "slug": "osun-ola-oluwa",
+      "markets": []
+    },
+    {
+      "name": "Olorunda",
+      "slug": "osun-olorunda",
+      "markets": []
+    },
+    {
+      "name": "Oriade",
+      "slug": "osun-oriade",
+      "markets": []
+    },
+    {
+      "name": "Orolu",
+      "slug": "osun-orolu",
+      "markets": []
+    },
+    {
+      "name": "Osogbo",
+      "slug": "osun-osogbo",
+      "markets": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Nasarawa",
+  "slug": "nasarawa",
+  "lgas": [
+    {
+      "name": "Akwanga",
+      "slug": "nasarawa-akwanga",
+      "markets": []
+    },
+    {
+      "name": "Awe",
+      "slug": "nasarawa-awe",
+      "markets": []
+    },
+    {
+      "name": "Doma",
+      "slug": "nasarawa-doma",
+      "markets": []
+    },
+    {
+      "name": "Karu",
+      "slug": "nasarawa-karu",
+      "markets": []
+    },
+    {
+      "name": "Keana",
+      "slug": "nasarawa-keana",
+      "markets": []
+    },
+    {
+      "name": "Keffi",
+      "slug": "nasarawa-keffi",
+      "markets": []
+    },
+    {
+      "name": "Kokona",
+      "slug": "nasarawa-kokona",
+      "markets": []
+    },
+    {
+      "name": "Lafia",
+      "slug": "nasarawa-lafia",
+      "markets": []
+    },
+    {
+      "name": "Nasarawa",
+      "slug": "nasarawa-nasarawa",
+      "markets": []
+    },
+    {
+      "name": "Nasarawa Eggon",
+      "slug": "nasarawa-nasarawa-eggon",
+      "markets": []
+    },
+    {
+      "name": "Obi",
+      "slug": "nasarawa-obi",
+      "markets": []
+    },
+    {
+      "name": "Toto",
+      "slug": "nasarawa-toto",
+      "markets": []
+    },
+    {
+      "name": "Wamba",
+      "slug": "nasarawa-wamba",
+      "markets": []
+    }
+  ]
+}
