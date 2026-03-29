@@ -62,13 +62,13 @@
       "slug": "kano-fagge",
       "markets": [
         {
-          "name": "Kurmi Market",
+          "name": "Kurmi Market, Fagge",
           "slug": "kurmi-market",
           "coordinates": { "lat": 11.9964, "lng": 8.5167 },
           "added_by": "ifihan"
         },
         {
-          "name": "Sabon Gari Market",
+          "name": "Sabon Gari Market, Fagge",
           "slug": "sabon-gari-market-kano",
           "coordinates": { "lat": 12.0022, "lng": 8.5270 },
           "added_by": "ifihan"
@@ -120,7 +120,7 @@
       "slug": "kano-kano-municipal",
       "markets": [
         {
-          "name": "Kantin Kwari Market",
+          "name": "Kantin Kwari Market, Kano Municipal",
           "slug": "kantin-kwari-market",
           "coordinates": { "lat": 11.9944, "lng": 8.5156 },
           "added_by": "ifihan"

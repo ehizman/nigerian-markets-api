@@ -42,13 +42,13 @@
       "slug": "lagos-eti-osa",
       "markets": [
         {
-          "name": "Lekki Market",
+          "name": "Lekki Market, Eti-Osa",
           "slug": "lekki-market",
           "coordinates": { "lat": 6.4698, "lng": 3.5852 },
           "added_by": "ifihan"
         },
         {
-          "name": "Ajah Market",
+          "name": "Ajah Market, Eti-Osa",
           "slug": "ajah-market",
           "coordinates": { "lat": 6.4698, "lng": 3.5986 },
           "added_by": "ifihan"
@@ -85,13 +85,13 @@
       "slug": "lagos-lagos-island",
       "markets": [
         {
-          "name": "Balogun Market",
+          "name": "Balogun Market, Lagos Island",
           "slug": "balogun-market",
           "coordinates": { "lat": 6.4541, "lng": 3.3947 },
           "added_by": "ifihan"
         },
         {
-          "name": "Idumota Market",
+          "name": "Idumota Market, Lagos Island",
           "slug": "idumota-market",
           "coordinates": { "lat": 6.4568, "lng": 3.3892 },
           "added_by": "ifihan"
@@ -125,13 +125,13 @@
       "slug": "lagos-oshodi-isolo",
       "markets": [
         {
-          "name": "Oshodi Market",
+          "name": "Oshodi Market, Oshodi-Isolo",
           "slug": "oshodi-market",
           "coordinates": { "lat": 6.5569, "lng": 3.3415 },
           "added_by": "ifihan"
         },
         {
-          "name": "Mile 12 Market",
+          "name": "Mile 12 Market, Oshodi-Isolo",
           "slug": "mile-12-market",
           "coordinates": { "lat": 6.5963, "lng": 3.3933 },
           "added_by": "ifihan"
@@ -148,7 +148,7 @@
       "slug": "lagos-surulere",
       "markets": [
         {
-          "name": "Tejuosho Market",
+          "name": "Tejuosho Market, Surulere",
           "slug": "tejuosho-market",
           "coordinates": { "lat": 6.5060, "lng": 3.3595 },
           "added_by": "ifihan"

@@ -12,19 +12,19 @@
       "slug": "fct-abuja-municipal",
       "markets": [
         {
-          "name": "Wuse Market",
+          "name": "Wuse Market, Abuja Municipal",
           "slug": "wuse-market",
           "coordinates": { "lat": 9.0579, "lng": 7.4891 },
           "added_by": "ifihan"
         },
         {
-          "name": "Garki Market",
+          "name": "Garki Market, Abuja Municipal",
           "slug": "garki-market",
           "coordinates": { "lat": 9.0227, "lng": 7.4891 },
           "added_by": "ifihan"
         },
         {
-          "name": "Utako Market",
+          "name": "Utako Market, Abuja Municipal",
           "slug": "utako-market",
           "coordinates": { "lat": 9.0726, "lng": 7.4416 },
           "added_by": "ifihan"

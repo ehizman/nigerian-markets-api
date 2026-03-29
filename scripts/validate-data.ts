@@ -72,6 +72,11 @@ for (const file of files) {
       if (!market.slug) errors.push(`${mContext}: missing market slug`);
       validateSlug(market.slug, mContext);
 
+      // Validate that market name includes LGA name
+      if (!market.name.includes(lga.name)) {
+        errors.push(`${mContext}: market name "${market.name}" does not include LGA name "${lga.name}"`);
+      }
+
       if (market.coordinates) {
         if (typeof market.coordinates.lat !== 'number' || typeof market.coordinates.lng !== 'number') {
           errors.push(`${mContext}: coordinates must be numbers`);
