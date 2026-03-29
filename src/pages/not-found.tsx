@@ -17,7 +17,7 @@ export const NotFoundPage: FC = () => {
         <p class="not-found-hint">Here are some places you can go:</p>
         <div class="not-found-links">
           <a href="/" class="btn btn-sm">Home</a>
-          <a href="/docs" class="btn btn-sm btn-outline">API Docs</a>
+          <a href="/docs" class="btn btn-sm btn-outline">Docs</a>
           <a href="/contribute" class="btn btn-sm btn-outline">Contribute</a>
         </div>
       </div>

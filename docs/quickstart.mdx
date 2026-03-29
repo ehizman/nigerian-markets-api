@@ -1,0 +1,71 @@
+---
+title: Quickstart
+description: Make your first requests to the Iya Oloja API in a few minutes.
+---
+
+# Quickstart
+
+The API is public and does not require authentication. All endpoints return JSON.
+
+## List states
+
+```bash
+curl https://iya-oloja.pages.dev/api/states
+```
+
+## Get one state
+
+```bash
+curl https://iya-oloja.pages.dev/api/states/lagos
+```
+
+## List markets with pagination
+
+```bash
+curl "https://iya-oloja.pages.dev/api/markets?limit=10&offset=0&order=asc"
+```
+
+## Search for markets
+
+```bash
+curl "https://iya-oloja.pages.dev/api/search?q=balogun"
+```
+
+## Submit a market suggestion
+
+```bash
+curl -X POST https://iya-oloja.pages.dev/api/contribute \
+  -H "Content-Type: application/json" \
+  -d '{
+    "market_name": "Balogun Market, Lagos Island",
+    "state": "Lagos",
+    "lga": "Lagos Island",
+    "lat": 6.4541,
+    "lng": 3.3947,
+    "description": "One of the largest markets in Lagos",
+    "contributor_name": "your-github-username"
+  }'
+```
+
+## Common response shape
+
+Successful requests return `success: true` and a `data` field.
+
+```json
+{
+  "success": true,
+  "data": []
+}
+```
+
+Errors return `success: false` and an `error` object.
+
+```json
+{
+  "success": false,
+  "error": {
+    "message": "Query parameter \"q\" is required",
+    "code": "BAD_REQUEST"
+  }
+}
+```

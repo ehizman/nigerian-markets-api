@@ -14,7 +14,7 @@ export const ContributePage: FC = () => {
           <form id="contribute-form" class="form">
             <div class="field">
               <label for="market_name">Market Name *</label>
-              <input type="text" id="market_name" name="market_name" required placeholder="e.g. Balogun Market" />
+              <input type="text" id="market_name" name="market_name" required placeholder="e.g. Balogun Market, Lagos Island" />
             </div>
             <div class="field">
               <label for="state">State *</label>
@@ -143,7 +143,7 @@ export const ContributePage: FC = () => {
           </ol>
           <p>Market entry format:</p>
           <pre>{`{
-  "name": "Balogun Market",
+  "name": "Balogun Market, Lagos Island",
   "slug": "balogun-market",
   "coordinates": { "lat": 6.4541, "lng": 3.3947 },
   "added_by": "your-github-username"

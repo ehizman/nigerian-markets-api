@@ -57,4 +57,5 @@ export interface ApiError {
 export type Bindings = {
   DB: D1Database;
   GITHUB_TOKEN: string;
+  DOCS_URL?: string;
 };

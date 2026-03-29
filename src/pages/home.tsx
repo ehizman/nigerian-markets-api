@@ -36,7 +36,7 @@ export const HomePage: FC = () => {
           </div>
         </div>
         <div class="quick-start-actions">
-          <a href="/docs" class="btn btn-sm">View Full API Docs</a>
+          <a href="/docs" class="btn btn-sm">View API Docs</a>
           <a href="/contribute" class="btn btn-sm btn-outline">Add a Market</a>
         </div>
       </div>

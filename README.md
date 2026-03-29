@@ -10,16 +10,12 @@ Base URL: `https://iya-oloja.pages.dev/api` (or your deployed URL)
 
 No authentication required. All responses are JSON.
 
-### Endpoints
+The API docs are now being migrated to a Mintlify workspace backed by an OpenAPI spec:
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | `/api/states` | List all states |
-| GET | `/api/states/:slug` | Get a state and its LGAs |
-| GET | `/api/lgas/:slug` | Get an LGA and its markets |
-| GET | `/api/markets?limit=20&offset=0&order=asc` | Paginated list of markets |
-| GET | `/api/search?q=balogun` | Search markets, LGAs, and states |
-| POST | `/api/contribute` | Submit a market (creates a GitHub issue) |
+- Docs source: [`docs/index.mdx`](docs/index.mdx)
+- API reference overview: [`docs/api-reference/overview.mdx`](docs/api-reference/overview.mdx)
+- OpenAPI contract: [`docs/openapi/openapi.yaml`](docs/openapi/openapi.yaml)
+- Hosted docs redirect: set `DOCS_URL` in your deployment environment so `/docs` redirects to the published Mintlify site
 
 ### Example
 
@@ -52,7 +48,7 @@ curl https://iya-oloja.pages.dev/api/states/lagos
 
 ```json
 {
-  "name": "Balogun Market",
+  "name": "Balogun Market, Lagos Island",
   "slug": "balogun-market",
   "coordinates": { "lat": 6.4541, "lng": 3.3947 },
   "added_by": "your-github-username"
@@ -98,7 +94,7 @@ Each file follows this structure:
       "slug": "lagos-lagos-island",
       "markets": [
         {
-          "name": "Balogun Market",
+          "name": "Balogun Market, Lagos Island",
           "slug": "balogun-market",
           "coordinates": { "lat": 6.4541, "lng": 3.3947 },
           "added_by": "ifihan"

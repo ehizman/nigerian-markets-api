@@ -1,0 +1,43 @@
+---
+title: Contributing Data
+description: Ways to add new markets to the open Nigerian market dataset.
+---
+
+# Contributing Data
+
+There are three ways to contribute market data.
+
+## 1. Submit a pull request
+
+This is the fastest path if you are comfortable editing JSON.
+
+1. Open the correct state file in `data/states/<state-slug>.json`
+2. Find the matching LGA
+3. Add a new market entry to that LGA's `markets` array
+4. Open a pull request
+
+Example entry:
+
+```json
+{
+  "name": "Balogun Market, Lagos Island",
+  "slug": "balogun-market",
+  "coordinates": { "lat": 6.4541, "lng": 3.3947 },
+  "added_by": "your-github-username"
+}
+```
+
+## 2. Use the contribution form
+
+Visit `/contribute` in the app to submit a market through the web form. The API creates a GitHub issue for maintainers to review.
+
+## 3. Open a GitHub issue
+
+Use the repository's `Add a Market` issue template if you prefer to contribute without editing data files directly.
+
+## Validation rules to know
+
+- Slugs must be lowercase and hyphen-separated
+- Market slugs must be unique
+- Coordinates are optional, but must be valid numbers if supplied
+- Market names should include the LGA name for disambiguation

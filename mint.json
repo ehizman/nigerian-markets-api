@@ -1,0 +1,27 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Iya Oloja API",
+  "theme": "mint",
+  "colors": {
+    "primary": "#0f766e",
+    "light": "#14b8a6",
+    "dark": "#115e59"
+  },
+  "navigation": [
+    {
+      "group": "Overview",
+      "pages": [
+        "docs/index",
+        "docs/quickstart",
+        "docs/contributing"
+      ]
+    },
+    {
+      "group": "Reference",
+      "pages": [
+        "docs/api-reference/overview"
+      ]
+    }
+  ],
+  "openapi": "docs/openapi/openapi.yaml"
+}
