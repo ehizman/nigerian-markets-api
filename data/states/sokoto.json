@@ -1,0 +1,121 @@
+{
+  "name": "Sokoto",
+  "slug": "sokoto",
+  "lgas": [
+    {
+      "name": "Binji",
+      "slug": "sokoto-binji",
+      "markets": []
+    },
+    {
+      "name": "Bodinga",
+      "slug": "sokoto-bodinga",
+      "markets": []
+    },
+    {
+      "name": "Dange Shuni",
+      "slug": "sokoto-dange-shuni",
+      "markets": []
+    },
+    {
+      "name": "Gada",
+      "slug": "sokoto-gada",
+      "markets": []
+    },
+    {
+      "name": "Goronyo",
+      "slug": "sokoto-goronyo",
+      "markets": []
+    },
+    {
+      "name": "Gudu",
+      "slug": "sokoto-gudu",
+      "markets": []
+    },
+    {
+      "name": "Gwadabawa",
+      "slug": "sokoto-gwadabawa",
+      "markets": []
+    },
+    {
+      "name": "Illela",
+      "slug": "sokoto-illela",
+      "markets": []
+    },
+    {
+      "name": "Isa",
+      "slug": "sokoto-isa",
+      "markets": []
+    },
+    {
+      "name": "Kebbe",
+      "slug": "sokoto-kebbe",
+      "markets": []
+    },
+    {
+      "name": "Kware",
+      "slug": "sokoto-kware",
+      "markets": []
+    },
+    {
+      "name": "Rabah",
+      "slug": "sokoto-rabah",
+      "markets": []
+    },
+    {
+      "name": "Sabon Birni",
+      "slug": "sokoto-sabon-birni",
+      "markets": []
+    },
+    {
+      "name": "Shagari",
+      "slug": "sokoto-shagari",
+      "markets": []
+    },
+    {
+      "name": "Silame",
+      "slug": "sokoto-silame",
+      "markets": []
+    },
+    {
+      "name": "Sokoto North",
+      "slug": "sokoto-sokoto-north",
+      "markets": []
+    },
+    {
+      "name": "Sokoto South",
+      "slug": "sokoto-sokoto-south",
+      "markets": []
+    },
+    {
+      "name": "Tambuwal",
+      "slug": "sokoto-tambuwal",
+      "markets": []
+    },
+    {
+      "name": "Tangaza",
+      "slug": "sokoto-tangaza",
+      "markets": []
+    },
+    {
+      "name": "Tureta",
+      "slug": "sokoto-tureta",
+      "markets": []
+    },
+    {
+      "name": "Wamako",
+      "slug": "sokoto-wamako",
+      "markets": []
+    },
+    {
+      "name": "Wurno",
+      "slug": "sokoto-wurno",
+      "markets": []
+    },
+    {
+      "name": "Yabo",
+      "slug": "sokoto-yabo",
+      "markets": []
+    }
+  ]
+}

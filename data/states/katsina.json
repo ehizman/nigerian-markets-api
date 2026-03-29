@@ -1,0 +1,176 @@
+{
+  "name": "Katsina",
+  "slug": "katsina",
+  "lgas": [
+    {
+      "name": "Bakori",
+      "slug": "katsina-bakori",
+      "markets": []
+    },
+    {
+      "name": "Batagarawa",
+      "slug": "katsina-batagarawa",
+      "markets": []
+    },
+    {
+      "name": "Batsari",
+      "slug": "katsina-batsari",
+      "markets": []
+    },
+    {
+      "name": "Baure",
+      "slug": "katsina-baure",
+      "markets": []
+    },
+    {
+      "name": "Bindawa",
+      "slug": "katsina-bindawa",
+      "markets": []
+    },
+    {
+      "name": "Charanchi",
+      "slug": "katsina-charanchi",
+      "markets": []
+    },
+    {
+      "name": "Dan Musa",
+      "slug": "katsina-dan-musa",
+      "markets": []
+    },
+    {
+      "name": "Dandume",
+      "slug": "katsina-dandume",
+      "markets": []
+    },
+    {
+      "name": "Danja",
+      "slug": "katsina-danja",
+      "markets": []
+    },
+    {
+      "name": "Daura",
+      "slug": "katsina-daura",
+      "markets": []
+    },
+    {
+      "name": "Dutsi",
+      "slug": "katsina-dutsi",
+      "markets": []
+    },
+    {
+      "name": "Dutsin Ma",
+      "slug": "katsina-dutsin-ma",
+      "markets": []
+    },
+    {
+      "name": "Faskari",
+      "slug": "katsina-faskari",
+      "markets": []
+    },
+    {
+      "name": "Funtua",
+      "slug": "katsina-funtua",
+      "markets": []
+    },
+    {
+      "name": "Ingawa",
+      "slug": "katsina-ingawa",
+      "markets": []
+    },
+    {
+      "name": "Jibia",
+      "slug": "katsina-jibia",
+      "markets": []
+    },
+    {
+      "name": "Kafur",
+      "slug": "katsina-kafur",
+      "markets": []
+    },
+    {
+      "name": "Kaita",
+      "slug": "katsina-kaita",
+      "markets": []
+    },
+    {
+      "name": "Kankara",
+      "slug": "katsina-kankara",
+      "markets": []
+    },
+    {
+      "name": "Kankia",
+      "slug": "katsina-kankia",
+      "markets": []
+    },
+    {
+      "name": "Katsina",
+      "slug": "katsina-katsina",
+      "markets": []
+    },
+    {
+      "name": "Kurfi",
+      "slug": "katsina-kurfi",
+      "markets": []
+    },
+    {
+      "name": "Kusada",
+      "slug": "katsina-kusada",
+      "markets": []
+    },
+    {
+      "name": "Mai'Adua",
+      "slug": "katsina-mai-adua",
+      "markets": []
+    },
+    {
+      "name": "Malumfashi",
+      "slug": "katsina-malumfashi",
+      "markets": []
+    },
+    {
+      "name": "Mani",
+      "slug": "katsina-mani",
+      "markets": []
+    },
+    {
+      "name": "Mashi",
+      "slug": "katsina-mashi",
+      "markets": []
+    },
+    {
+      "name": "Matazu",
+      "slug": "katsina-matazu",
+      "markets": []
+    },
+    {
+      "name": "Musawa",
+      "slug": "katsina-musawa",
+      "markets": []
+    },
+    {
+      "name": "Rimi",
+      "slug": "katsina-rimi",
+      "markets": []
+    },
+    {
+      "name": "Sabuwa",
+      "slug": "katsina-sabuwa",
+      "markets": []
+    },
+    {
+      "name": "Safana",
+      "slug": "katsina-safana",
+      "markets": []
+    },
+    {
+      "name": "Sandamu",
+      "slug": "katsina-sandamu",
+      "markets": []
+    },
+    {
+      "name": "Zango",
+      "slug": "katsina-zango",
+      "markets": []
+    }
+  ]
+}

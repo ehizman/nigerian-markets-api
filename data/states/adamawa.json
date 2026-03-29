@@ -1,0 +1,111 @@
+{
+  "name": "Adamawa",
+  "slug": "adamawa",
+  "lgas": [
+    {
+      "name": "Demsa",
+      "slug": "adamawa-demsa",
+      "markets": []
+    },
+    {
+      "name": "Fufore",
+      "slug": "adamawa-fufore",
+      "markets": []
+    },
+    {
+      "name": "Ganye",
+      "slug": "adamawa-ganye",
+      "markets": []
+    },
+    {
+      "name": "Gayuk",
+      "slug": "adamawa-gayuk",
+      "markets": []
+    },
+    {
+      "name": "Gombi",
+      "slug": "adamawa-gombi",
+      "markets": []
+    },
+    {
+      "name": "Grie",
+      "slug": "adamawa-grie",
+      "markets": []
+    },
+    {
+      "name": "Hong",
+      "slug": "adamawa-hong",
+      "markets": []
+    },
+    {
+      "name": "Jada",
+      "slug": "adamawa-jada",
+      "markets": []
+    },
+    {
+      "name": "Lamurde",
+      "slug": "adamawa-lamurde",
+      "markets": []
+    },
+    {
+      "name": "Madagali",
+      "slug": "adamawa-madagali",
+      "markets": []
+    },
+    {
+      "name": "Maiha",
+      "slug": "adamawa-maiha",
+      "markets": []
+    },
+    {
+      "name": "Mayo-Belwa",
+      "slug": "adamawa-mayo-belwa",
+      "markets": []
+    },
+    {
+      "name": "Michika",
+      "slug": "adamawa-michika",
+      "markets": []
+    },
+    {
+      "name": "Mubi North",
+      "slug": "adamawa-mubi-north",
+      "markets": []
+    },
+    {
+      "name": "Mubi South",
+      "slug": "adamawa-mubi-south",
+      "markets": []
+    },
+    {
+      "name": "Numan",
+      "slug": "adamawa-numan",
+      "markets": []
+    },
+    {
+      "name": "Shelleng",
+      "slug": "adamawa-shelleng",
+      "markets": []
+    },
+    {
+      "name": "Song",
+      "slug": "adamawa-song",
+      "markets": []
+    },
+    {
+      "name": "Toungo",
+      "slug": "adamawa-toungo",
+      "markets": []
+    },
+    {
+      "name": "Yola North",
+      "slug": "adamawa-yola-north",
+      "markets": []
+    },
+    {
+      "name": "Yola South",
+      "slug": "adamawa-yola-south",
+      "markets": []
+    }
+  ]
+}

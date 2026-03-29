@@ -1,0 +1,121 @@
+{
+  "name": "Kaduna",
+  "slug": "kaduna",
+  "lgas": [
+    {
+      "name": "Birnin Gwari",
+      "slug": "kaduna-birnin-gwari",
+      "markets": []
+    },
+    {
+      "name": "Chikun",
+      "slug": "kaduna-chikun",
+      "markets": []
+    },
+    {
+      "name": "Giwa",
+      "slug": "kaduna-giwa",
+      "markets": []
+    },
+    {
+      "name": "Igabi",
+      "slug": "kaduna-igabi",
+      "markets": []
+    },
+    {
+      "name": "Ikara",
+      "slug": "kaduna-ikara",
+      "markets": []
+    },
+    {
+      "name": "Jaba",
+      "slug": "kaduna-jaba",
+      "markets": []
+    },
+    {
+      "name": "Jema'a",
+      "slug": "kaduna-jema-a",
+      "markets": []
+    },
+    {
+      "name": "Kachia",
+      "slug": "kaduna-kachia",
+      "markets": []
+    },
+    {
+      "name": "Kaduna North",
+      "slug": "kaduna-kaduna-north",
+      "markets": []
+    },
+    {
+      "name": "Kaduna South",
+      "slug": "kaduna-kaduna-south",
+      "markets": []
+    },
+    {
+      "name": "Kagarko",
+      "slug": "kaduna-kagarko",
+      "markets": []
+    },
+    {
+      "name": "Kajuru",
+      "slug": "kaduna-kajuru",
+      "markets": []
+    },
+    {
+      "name": "Kaura",
+      "slug": "kaduna-kaura",
+      "markets": []
+    },
+    {
+      "name": "Kauru",
+      "slug": "kaduna-kauru",
+      "markets": []
+    },
+    {
+      "name": "Kubau",
+      "slug": "kaduna-kubau",
+      "markets": []
+    },
+    {
+      "name": "Kudan",
+      "slug": "kaduna-kudan",
+      "markets": []
+    },
+    {
+      "name": "Lere",
+      "slug": "kaduna-lere",
+      "markets": []
+    },
+    {
+      "name": "Makarfi",
+      "slug": "kaduna-makarfi",
+      "markets": []
+    },
+    {
+      "name": "Sabon Gari",
+      "slug": "kaduna-sabon-gari",
+      "markets": []
+    },
+    {
+      "name": "Sanga",
+      "slug": "kaduna-sanga",
+      "markets": []
+    },
+    {
+      "name": "Soba",
+      "slug": "kaduna-soba",
+      "markets": []
+    },
+    {
+      "name": "Zangon Kataf",
+      "slug": "kaduna-zangon-kataf",
+      "markets": []
+    },
+    {
+      "name": "Zaria",
+      "slug": "kaduna-zaria",
+      "markets": []
+    }
+  ]
+}

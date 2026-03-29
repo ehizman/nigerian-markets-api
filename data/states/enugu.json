@@ -1,0 +1,91 @@
+{
+  "name": "Enugu",
+  "slug": "enugu",
+  "lgas": [
+    {
+      "name": "Aninri",
+      "slug": "enugu-aninri",
+      "markets": []
+    },
+    {
+      "name": "Awgu",
+      "slug": "enugu-awgu",
+      "markets": []
+    },
+    {
+      "name": "Enugu East",
+      "slug": "enugu-enugu-east",
+      "markets": []
+    },
+    {
+      "name": "Enugu North",
+      "slug": "enugu-enugu-north",
+      "markets": []
+    },
+    {
+      "name": "Enugu South",
+      "slug": "enugu-enugu-south",
+      "markets": []
+    },
+    {
+      "name": "Ezeagu",
+      "slug": "enugu-ezeagu",
+      "markets": []
+    },
+    {
+      "name": "Igbo Etiti",
+      "slug": "enugu-igbo-etiti",
+      "markets": []
+    },
+    {
+      "name": "Igbo Eze North",
+      "slug": "enugu-igbo-eze-north",
+      "markets": []
+    },
+    {
+      "name": "Igbo Eze South",
+      "slug": "enugu-igbo-eze-south",
+      "markets": []
+    },
+    {
+      "name": "Isi Uzo",
+      "slug": "enugu-isi-uzo",
+      "markets": []
+    },
+    {
+      "name": "Nkanu East",
+      "slug": "enugu-nkanu-east",
+      "markets": []
+    },
+    {
+      "name": "Nkanu West",
+      "slug": "enugu-nkanu-west",
+      "markets": []
+    },
+    {
+      "name": "Nsukka",
+      "slug": "enugu-nsukka",
+      "markets": []
+    },
+    {
+      "name": "Oji River",
+      "slug": "enugu-oji-river",
+      "markets": []
+    },
+    {
+      "name": "Udenu",
+      "slug": "enugu-udenu",
+      "markets": []
+    },
+    {
+      "name": "Udi",
+      "slug": "enugu-udi",
+      "markets": []
+    },
+    {
+      "name": "Uzo-Uwani",
+      "slug": "enugu-uzo-uwani",
+      "markets": []
+    }
+  ]
+}

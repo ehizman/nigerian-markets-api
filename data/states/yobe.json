@@ -1,0 +1,91 @@
+{
+  "name": "Yobe",
+  "slug": "yobe",
+  "lgas": [
+    {
+      "name": "Bade",
+      "slug": "yobe-bade",
+      "markets": []
+    },
+    {
+      "name": "Bursari",
+      "slug": "yobe-bursari",
+      "markets": []
+    },
+    {
+      "name": "Damaturu",
+      "slug": "yobe-damaturu",
+      "markets": []
+    },
+    {
+      "name": "Fika",
+      "slug": "yobe-fika",
+      "markets": []
+    },
+    {
+      "name": "Fune",
+      "slug": "yobe-fune",
+      "markets": []
+    },
+    {
+      "name": "Geidam",
+      "slug": "yobe-geidam",
+      "markets": []
+    },
+    {
+      "name": "Gujba",
+      "slug": "yobe-gujba",
+      "markets": []
+    },
+    {
+      "name": "Gulani",
+      "slug": "yobe-gulani",
+      "markets": []
+    },
+    {
+      "name": "Jakusko",
+      "slug": "yobe-jakusko",
+      "markets": []
+    },
+    {
+      "name": "Karasuwa",
+      "slug": "yobe-karasuwa",
+      "markets": []
+    },
+    {
+      "name": "Machina",
+      "slug": "yobe-machina",
+      "markets": []
+    },
+    {
+      "name": "Nangere",
+      "slug": "yobe-nangere",
+      "markets": []
+    },
+    {
+      "name": "Nguru",
+      "slug": "yobe-nguru",
+      "markets": []
+    },
+    {
+      "name": "Potiskum",
+      "slug": "yobe-potiskum",
+      "markets": []
+    },
+    {
+      "name": "Tarmuwa",
+      "slug": "yobe-tarmuwa",
+      "markets": []
+    },
+    {
+      "name": "Yunusari",
+      "slug": "yobe-yunusari",
+      "markets": []
+    },
+    {
+      "name": "Yusufari",
+      "slug": "yobe-yusufari",
+      "markets": []
+    }
+  ]
+}

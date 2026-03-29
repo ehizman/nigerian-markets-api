@@ -1,0 +1,141 @@
+{
+  "name": "Imo",
+  "slug": "imo",
+  "lgas": [
+    {
+      "name": "Aboh Mbaise",
+      "slug": "imo-aboh-mbaise",
+      "markets": []
+    },
+    {
+      "name": "Ahiazu Mbaise",
+      "slug": "imo-ahiazu-mbaise",
+      "markets": []
+    },
+    {
+      "name": "Ehime Mbano",
+      "slug": "imo-ehime-mbano",
+      "markets": []
+    },
+    {
+      "name": "Ezinihitte",
+      "slug": "imo-ezinihitte",
+      "markets": []
+    },
+    {
+      "name": "Ideato North",
+      "slug": "imo-ideato-north",
+      "markets": []
+    },
+    {
+      "name": "Ideato South",
+      "slug": "imo-ideato-south",
+      "markets": []
+    },
+    {
+      "name": "Ihitte/Uboma",
+      "slug": "imo-ihitte-uboma",
+      "markets": []
+    },
+    {
+      "name": "Ikeduru",
+      "slug": "imo-ikeduru",
+      "markets": []
+    },
+    {
+      "name": "Isiala Mbano",
+      "slug": "imo-isiala-mbano",
+      "markets": []
+    },
+    {
+      "name": "Isu",
+      "slug": "imo-isu",
+      "markets": []
+    },
+    {
+      "name": "Mbaitoli",
+      "slug": "imo-mbaitoli",
+      "markets": []
+    },
+    {
+      "name": "Ngor Okpala",
+      "slug": "imo-ngor-okpala",
+      "markets": []
+    },
+    {
+      "name": "Njaba",
+      "slug": "imo-njaba",
+      "markets": []
+    },
+    {
+      "name": "Nkwerre",
+      "slug": "imo-nkwerre",
+      "markets": []
+    },
+    {
+      "name": "Nwangele",
+      "slug": "imo-nwangele",
+      "markets": []
+    },
+    {
+      "name": "Obowo",
+      "slug": "imo-obowo",
+      "markets": []
+    },
+    {
+      "name": "Oguta",
+      "slug": "imo-oguta",
+      "markets": []
+    },
+    {
+      "name": "Ohaji/Egbema",
+      "slug": "imo-ohaji-egbema",
+      "markets": []
+    },
+    {
+      "name": "Okigwe",
+      "slug": "imo-okigwe",
+      "markets": []
+    },
+    {
+      "name": "Onuimo",
+      "slug": "imo-onuimo",
+      "markets": []
+    },
+    {
+      "name": "Orlu",
+      "slug": "imo-orlu",
+      "markets": []
+    },
+    {
+      "name": "Orsu",
+      "slug": "imo-orsu",
+      "markets": []
+    },
+    {
+      "name": "Oru East",
+      "slug": "imo-oru-east",
+      "markets": []
+    },
+    {
+      "name": "Oru West",
+      "slug": "imo-oru-west",
+      "markets": []
+    },
+    {
+      "name": "Owerri Municipal",
+      "slug": "imo-owerri-municipal",
+      "markets": []
+    },
+    {
+      "name": "Owerri North",
+      "slug": "imo-owerri-north",
+      "markets": []
+    },
+    {
+      "name": "Owerri West",
+      "slug": "imo-owerri-west",
+      "markets": []
+    }
+  ]
+}

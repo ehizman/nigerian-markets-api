@@ -1,0 +1,46 @@
+{
+  "name": "Bayelsa",
+  "slug": "bayelsa",
+  "lgas": [
+    {
+      "name": "Brass",
+      "slug": "bayelsa-brass",
+      "markets": []
+    },
+    {
+      "name": "Ekeremor",
+      "slug": "bayelsa-ekeremor",
+      "markets": []
+    },
+    {
+      "name": "Kolokuma/Opokuma",
+      "slug": "bayelsa-kolokuma-opokuma",
+      "markets": []
+    },
+    {
+      "name": "Nembe",
+      "slug": "bayelsa-nembe",
+      "markets": []
+    },
+    {
+      "name": "Ogbia",
+      "slug": "bayelsa-ogbia",
+      "markets": []
+    },
+    {
+      "name": "Sagbama",
+      "slug": "bayelsa-sagbama",
+      "markets": []
+    },
+    {
+      "name": "Southern Ijaw",
+      "slug": "bayelsa-southern-ijaw",
+      "markets": []
+    },
+    {
+      "name": "Yenagoa",
+      "slug": "bayelsa-yenagoa",
+      "markets": []
+    }
+  ]
+}

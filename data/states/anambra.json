@@ -1,0 +1,111 @@
+{
+  "name": "Anambra",
+  "slug": "anambra",
+  "lgas": [
+    {
+      "name": "Aguata",
+      "slug": "anambra-aguata",
+      "markets": []
+    },
+    {
+      "name": "Anambra East",
+      "slug": "anambra-anambra-east",
+      "markets": []
+    },
+    {
+      "name": "Anambra West",
+      "slug": "anambra-anambra-west",
+      "markets": []
+    },
+    {
+      "name": "Anaocha",
+      "slug": "anambra-anaocha",
+      "markets": []
+    },
+    {
+      "name": "Awka North",
+      "slug": "anambra-awka-north",
+      "markets": []
+    },
+    {
+      "name": "Awka South",
+      "slug": "anambra-awka-south",
+      "markets": []
+    },
+    {
+      "name": "Ayamelum",
+      "slug": "anambra-ayamelum",
+      "markets": []
+    },
+    {
+      "name": "Dunukofia",
+      "slug": "anambra-dunukofia",
+      "markets": []
+    },
+    {
+      "name": "Ekwusigo",
+      "slug": "anambra-ekwusigo",
+      "markets": []
+    },
+    {
+      "name": "Idemili North",
+      "slug": "anambra-idemili-north",
+      "markets": []
+    },
+    {
+      "name": "Idemili South",
+      "slug": "anambra-idemili-south",
+      "markets": []
+    },
+    {
+      "name": "Ihiala",
+      "slug": "anambra-ihiala",
+      "markets": []
+    },
+    {
+      "name": "Njikoka",
+      "slug": "anambra-njikoka",
+      "markets": []
+    },
+    {
+      "name": "Nnewi North",
+      "slug": "anambra-nnewi-north",
+      "markets": []
+    },
+    {
+      "name": "Nnewi South",
+      "slug": "anambra-nnewi-south",
+      "markets": []
+    },
+    {
+      "name": "Ogbaru",
+      "slug": "anambra-ogbaru",
+      "markets": []
+    },
+    {
+      "name": "Onitsha North",
+      "slug": "anambra-onitsha-north",
+      "markets": []
+    },
+    {
+      "name": "Onitsha South",
+      "slug": "anambra-onitsha-south",
+      "markets": []
+    },
+    {
+      "name": "Orumba North",
+      "slug": "anambra-orumba-north",
+      "markets": []
+    },
+    {
+      "name": "Orumba South",
+      "slug": "anambra-orumba-south",
+      "markets": []
+    },
+    {
+      "name": "Oyi",
+      "slug": "anambra-oyi",
+      "markets": []
+    }
+  ]
+}

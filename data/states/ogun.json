@@ -1,0 +1,106 @@
+{
+  "name": "Ogun",
+  "slug": "ogun",
+  "lgas": [
+    {
+      "name": "Abeokuta North",
+      "slug": "ogun-abeokuta-north",
+      "markets": []
+    },
+    {
+      "name": "Abeokuta South",
+      "slug": "ogun-abeokuta-south",
+      "markets": []
+    },
+    {
+      "name": "Ado-Odo/Ota",
+      "slug": "ogun-ado-odo-ota",
+      "markets": []
+    },
+    {
+      "name": "Ewekoro",
+      "slug": "ogun-ewekoro",
+      "markets": []
+    },
+    {
+      "name": "Ifo",
+      "slug": "ogun-ifo",
+      "markets": []
+    },
+    {
+      "name": "Ijebu East",
+      "slug": "ogun-ijebu-east",
+      "markets": []
+    },
+    {
+      "name": "Ijebu North",
+      "slug": "ogun-ijebu-north",
+      "markets": []
+    },
+    {
+      "name": "Ijebu North East",
+      "slug": "ogun-ijebu-north-east",
+      "markets": []
+    },
+    {
+      "name": "Ijebu Ode",
+      "slug": "ogun-ijebu-ode",
+      "markets": []
+    },
+    {
+      "name": "Ikenne",
+      "slug": "ogun-ikenne",
+      "markets": []
+    },
+    {
+      "name": "Imeko Afon",
+      "slug": "ogun-imeko-afon",
+      "markets": []
+    },
+    {
+      "name": "Ipokia",
+      "slug": "ogun-ipokia",
+      "markets": []
+    },
+    {
+      "name": "Obafemi Owode",
+      "slug": "ogun-obafemi-owode",
+      "markets": []
+    },
+    {
+      "name": "Odeda",
+      "slug": "ogun-odeda",
+      "markets": []
+    },
+    {
+      "name": "Odogbolu",
+      "slug": "ogun-odogbolu",
+      "markets": []
+    },
+    {
+      "name": "Ogun Waterside",
+      "slug": "ogun-ogun-waterside",
+      "markets": []
+    },
+    {
+      "name": "Remo North",
+      "slug": "ogun-remo-north",
+      "markets": []
+    },
+    {
+      "name": "Sagamu",
+      "slug": "ogun-sagamu",
+      "markets": []
+    },
+    {
+      "name": "Yewa North",
+      "slug": "ogun-yewa-north",
+      "markets": []
+    },
+    {
+      "name": "Yewa South",
+      "slug": "ogun-yewa-south",
+      "markets": []
+    }
+  ]
+}

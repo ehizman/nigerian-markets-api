@@ -1,0 +1,96 @@
+{
+  "name": "Cross River",
+  "slug": "cross-river",
+  "lgas": [
+    {
+      "name": "Abi",
+      "slug": "cross-river-abi",
+      "markets": []
+    },
+    {
+      "name": "Akamkpa",
+      "slug": "cross-river-akamkpa",
+      "markets": []
+    },
+    {
+      "name": "Akpabuyo",
+      "slug": "cross-river-akpabuyo",
+      "markets": []
+    },
+    {
+      "name": "Bakassi",
+      "slug": "cross-river-bakassi",
+      "markets": []
+    },
+    {
+      "name": "Bekwara",
+      "slug": "cross-river-bekwara",
+      "markets": []
+    },
+    {
+      "name": "Biase",
+      "slug": "cross-river-biase",
+      "markets": []
+    },
+    {
+      "name": "Boki",
+      "slug": "cross-river-boki",
+      "markets": []
+    },
+    {
+      "name": "Calabar Municipal",
+      "slug": "cross-river-calabar-municipal",
+      "markets": []
+    },
+    {
+      "name": "Calabar South",
+      "slug": "cross-river-calabar-south",
+      "markets": []
+    },
+    {
+      "name": "Etung",
+      "slug": "cross-river-etung",
+      "markets": []
+    },
+    {
+      "name": "Ikom",
+      "slug": "cross-river-ikom",
+      "markets": []
+    },
+    {
+      "name": "Obanliku",
+      "slug": "cross-river-obanliku",
+      "markets": []
+    },
+    {
+      "name": "Obubra",
+      "slug": "cross-river-obubra",
+      "markets": []
+    },
+    {
+      "name": "Obudu",
+      "slug": "cross-river-obudu",
+      "markets": []
+    },
+    {
+      "name": "Odukpani",
+      "slug": "cross-river-odukpani",
+      "markets": []
+    },
+    {
+      "name": "Ogoja",
+      "slug": "cross-river-ogoja",
+      "markets": []
+    },
+    {
+      "name": "Yakurr",
+      "slug": "cross-river-yakurr",
+      "markets": []
+    },
+    {
+      "name": "Yala",
+      "slug": "cross-river-yala",
+      "markets": []
+    }
+  ]
+}

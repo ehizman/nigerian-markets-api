@@ -1,0 +1,96 @@
+{
+  "name": "Ondo",
+  "slug": "ondo",
+  "lgas": [
+    {
+      "name": "Akoko North-East",
+      "slug": "ondo-akoko-north-east",
+      "markets": []
+    },
+    {
+      "name": "Akoko North-West",
+      "slug": "ondo-akoko-north-west",
+      "markets": []
+    },
+    {
+      "name": "Akoko South-East",
+      "slug": "ondo-akoko-south-east",
+      "markets": []
+    },
+    {
+      "name": "Akoko South-West",
+      "slug": "ondo-akoko-south-west",
+      "markets": []
+    },
+    {
+      "name": "Akure North",
+      "slug": "ondo-akure-north",
+      "markets": []
+    },
+    {
+      "name": "Akure South",
+      "slug": "ondo-akure-south",
+      "markets": []
+    },
+    {
+      "name": "Ese Odo",
+      "slug": "ondo-ese-odo",
+      "markets": []
+    },
+    {
+      "name": "Idanre",
+      "slug": "ondo-idanre",
+      "markets": []
+    },
+    {
+      "name": "Ifedore",
+      "slug": "ondo-ifedore",
+      "markets": []
+    },
+    {
+      "name": "Ilaje",
+      "slug": "ondo-ilaje",
+      "markets": []
+    },
+    {
+      "name": "Ile Oluji/Okeigbo",
+      "slug": "ondo-ile-oluji-okeigbo",
+      "markets": []
+    },
+    {
+      "name": "Irele",
+      "slug": "ondo-irele",
+      "markets": []
+    },
+    {
+      "name": "Odigbo",
+      "slug": "ondo-odigbo",
+      "markets": []
+    },
+    {
+      "name": "Okitipupa",
+      "slug": "ondo-okitipupa",
+      "markets": []
+    },
+    {
+      "name": "Ondo East",
+      "slug": "ondo-ondo-east",
+      "markets": []
+    },
+    {
+      "name": "Ondo West",
+      "slug": "ondo-ondo-west",
+      "markets": []
+    },
+    {
+      "name": "Ose",
+      "slug": "ondo-ose",
+      "markets": []
+    },
+    {
+      "name": "Owo",
+      "slug": "ondo-owo",
+      "markets": []
+    }
+  ]
+}

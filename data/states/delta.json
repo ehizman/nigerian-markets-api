@@ -1,0 +1,131 @@
+{
+  "name": "Delta",
+  "slug": "delta",
+  "lgas": [
+    {
+      "name": "Aniocha North",
+      "slug": "delta-aniocha-north",
+      "markets": []
+    },
+    {
+      "name": "Aniocha South",
+      "slug": "delta-aniocha-south",
+      "markets": []
+    },
+    {
+      "name": "Bomadi",
+      "slug": "delta-bomadi",
+      "markets": []
+    },
+    {
+      "name": "Burutu",
+      "slug": "delta-burutu",
+      "markets": []
+    },
+    {
+      "name": "Ethiope East",
+      "slug": "delta-ethiope-east",
+      "markets": []
+    },
+    {
+      "name": "Ethiope West",
+      "slug": "delta-ethiope-west",
+      "markets": []
+    },
+    {
+      "name": "Ika North East",
+      "slug": "delta-ika-north-east",
+      "markets": []
+    },
+    {
+      "name": "Ika South",
+      "slug": "delta-ika-south",
+      "markets": []
+    },
+    {
+      "name": "Isoko North",
+      "slug": "delta-isoko-north",
+      "markets": []
+    },
+    {
+      "name": "Isoko South",
+      "slug": "delta-isoko-south",
+      "markets": []
+    },
+    {
+      "name": "Ndokwa East",
+      "slug": "delta-ndokwa-east",
+      "markets": []
+    },
+    {
+      "name": "Ndokwa West",
+      "slug": "delta-ndokwa-west",
+      "markets": []
+    },
+    {
+      "name": "Okpe",
+      "slug": "delta-okpe",
+      "markets": []
+    },
+    {
+      "name": "Oshimili North",
+      "slug": "delta-oshimili-north",
+      "markets": []
+    },
+    {
+      "name": "Oshimili South",
+      "slug": "delta-oshimili-south",
+      "markets": []
+    },
+    {
+      "name": "Patani",
+      "slug": "delta-patani",
+      "markets": []
+    },
+    {
+      "name": "Sapele",
+      "slug": "delta-sapele",
+      "markets": []
+    },
+    {
+      "name": "Udu",
+      "slug": "delta-udu",
+      "markets": []
+    },
+    {
+      "name": "Ughelli North",
+      "slug": "delta-ughelli-north",
+      "markets": []
+    },
+    {
+      "name": "Ughelli South",
+      "slug": "delta-ughelli-south",
+      "markets": []
+    },
+    {
+      "name": "Ukwuani",
+      "slug": "delta-ukwuani",
+      "markets": []
+    },
+    {
+      "name": "Uvwie",
+      "slug": "delta-uvwie",
+      "markets": []
+    },
+    {
+      "name": "Warri North",
+      "slug": "delta-warri-north",
+      "markets": []
+    },
+    {
+      "name": "Warri South",
+      "slug": "delta-warri-south",
+      "markets": []
+    },
+    {
+      "name": "Warri South West",
+      "slug": "delta-warri-south-west",
+      "markets": []
+    }
+  ]
+}

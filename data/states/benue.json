@@ -1,0 +1,121 @@
+{
+  "name": "Benue",
+  "slug": "benue",
+  "lgas": [
+    {
+      "name": "Ado",
+      "slug": "benue-ado",
+      "markets": []
+    },
+    {
+      "name": "Agatu",
+      "slug": "benue-agatu",
+      "markets": []
+    },
+    {
+      "name": "Apa",
+      "slug": "benue-apa",
+      "markets": []
+    },
+    {
+      "name": "Buruku",
+      "slug": "benue-buruku",
+      "markets": []
+    },
+    {
+      "name": "Gboko",
+      "slug": "benue-gboko",
+      "markets": []
+    },
+    {
+      "name": "Guma",
+      "slug": "benue-guma",
+      "markets": []
+    },
+    {
+      "name": "Gwer East",
+      "slug": "benue-gwer-east",
+      "markets": []
+    },
+    {
+      "name": "Gwer West",
+      "slug": "benue-gwer-west",
+      "markets": []
+    },
+    {
+      "name": "Katsina-Ala",
+      "slug": "benue-katsina-ala",
+      "markets": []
+    },
+    {
+      "name": "Konshisha",
+      "slug": "benue-konshisha",
+      "markets": []
+    },
+    {
+      "name": "Kwande",
+      "slug": "benue-kwande",
+      "markets": []
+    },
+    {
+      "name": "Logo",
+      "slug": "benue-logo",
+      "markets": []
+    },
+    {
+      "name": "Makurdi",
+      "slug": "benue-makurdi",
+      "markets": []
+    },
+    {
+      "name": "Obi",
+      "slug": "benue-obi",
+      "markets": []
+    },
+    {
+      "name": "Ogbadibo",
+      "slug": "benue-ogbadibo",
+      "markets": []
+    },
+    {
+      "name": "Ohimini",
+      "slug": "benue-ohimini",
+      "markets": []
+    },
+    {
+      "name": "Oju",
+      "slug": "benue-oju",
+      "markets": []
+    },
+    {
+      "name": "Okpokwu",
+      "slug": "benue-okpokwu",
+      "markets": []
+    },
+    {
+      "name": "Otukpo",
+      "slug": "benue-otukpo",
+      "markets": []
+    },
+    {
+      "name": "Tarka",
+      "slug": "benue-tarka",
+      "markets": []
+    },
+    {
+      "name": "Ukum",
+      "slug": "benue-ukum",
+      "markets": []
+    },
+    {
+      "name": "Ushongo",
+      "slug": "benue-ushongo",
+      "markets": []
+    },
+    {
+      "name": "Vandeikya",
+      "slug": "benue-vandeikya",
+      "markets": []
+    }
+  ]
+}

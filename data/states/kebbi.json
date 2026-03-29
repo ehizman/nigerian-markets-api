@@ -1,0 +1,111 @@
+{
+  "name": "Kebbi",
+  "slug": "kebbi",
+  "lgas": [
+    {
+      "name": "Aleiro",
+      "slug": "kebbi-aleiro",
+      "markets": []
+    },
+    {
+      "name": "Arewa Dandi",
+      "slug": "kebbi-arewa-dandi",
+      "markets": []
+    },
+    {
+      "name": "Argungu",
+      "slug": "kebbi-argungu",
+      "markets": []
+    },
+    {
+      "name": "Augie",
+      "slug": "kebbi-augie",
+      "markets": []
+    },
+    {
+      "name": "Bagudo",
+      "slug": "kebbi-bagudo",
+      "markets": []
+    },
+    {
+      "name": "Birnin Kebbi",
+      "slug": "kebbi-birnin-kebbi",
+      "markets": []
+    },
+    {
+      "name": "Bunza",
+      "slug": "kebbi-bunza",
+      "markets": []
+    },
+    {
+      "name": "Dandi",
+      "slug": "kebbi-dandi",
+      "markets": []
+    },
+    {
+      "name": "Fakai",
+      "slug": "kebbi-fakai",
+      "markets": []
+    },
+    {
+      "name": "Gwandu",
+      "slug": "kebbi-gwandu",
+      "markets": []
+    },
+    {
+      "name": "Jega",
+      "slug": "kebbi-jega",
+      "markets": []
+    },
+    {
+      "name": "Kalgo",
+      "slug": "kebbi-kalgo",
+      "markets": []
+    },
+    {
+      "name": "Koko/Besse",
+      "slug": "kebbi-koko-besse",
+      "markets": []
+    },
+    {
+      "name": "Maiyama",
+      "slug": "kebbi-maiyama",
+      "markets": []
+    },
+    {
+      "name": "Ngaski",
+      "slug": "kebbi-ngaski",
+      "markets": []
+    },
+    {
+      "name": "Sakaba",
+      "slug": "kebbi-sakaba",
+      "markets": []
+    },
+    {
+      "name": "Shanga",
+      "slug": "kebbi-shanga",
+      "markets": []
+    },
+    {
+      "name": "Suru",
+      "slug": "kebbi-suru",
+      "markets": []
+    },
+    {
+      "name": "Wasagu/Danko",
+      "slug": "kebbi-wasagu-danko",
+      "markets": []
+    },
+    {
+      "name": "Yauri",
+      "slug": "kebbi-yauri",
+      "markets": []
+    },
+    {
+      "name": "Zuru",
+      "slug": "kebbi-zuru",
+      "markets": []
+    }
+  ]
+}

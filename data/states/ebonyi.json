@@ -1,0 +1,71 @@
+{
+  "name": "Ebonyi",
+  "slug": "ebonyi",
+  "lgas": [
+    {
+      "name": "Abakaliki",
+      "slug": "ebonyi-abakaliki",
+      "markets": []
+    },
+    {
+      "name": "Afikpo North",
+      "slug": "ebonyi-afikpo-north",
+      "markets": []
+    },
+    {
+      "name": "Afikpo South",
+      "slug": "ebonyi-afikpo-south",
+      "markets": []
+    },
+    {
+      "name": "Ebonyi",
+      "slug": "ebonyi-ebonyi",
+      "markets": []
+    },
+    {
+      "name": "Ezza North",
+      "slug": "ebonyi-ezza-north",
+      "markets": []
+    },
+    {
+      "name": "Ezza South",
+      "slug": "ebonyi-ezza-south",
+      "markets": []
+    },
+    {
+      "name": "Ikwo",
+      "slug": "ebonyi-ikwo",
+      "markets": []
+    },
+    {
+      "name": "Ishielu",
+      "slug": "ebonyi-ishielu",
+      "markets": []
+    },
+    {
+      "name": "Ivo",
+      "slug": "ebonyi-ivo",
+      "markets": []
+    },
+    {
+      "name": "Izzi",
+      "slug": "ebonyi-izzi",
+      "markets": []
+    },
+    {
+      "name": "Ohaozara",
+      "slug": "ebonyi-ohaozara",
+      "markets": []
+    },
+    {
+      "name": "Ohaukwu",
+      "slug": "ebonyi-ohaukwu",
+      "markets": []
+    },
+    {
+      "name": "Onicha",
+      "slug": "ebonyi-onicha",
+      "markets": []
+    }
+  ]
+}

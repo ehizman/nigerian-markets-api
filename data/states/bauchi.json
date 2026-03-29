@@ -1,0 +1,106 @@
+{
+  "name": "Bauchi",
+  "slug": "bauchi",
+  "lgas": [
+    {
+      "name": "Alkaleri",
+      "slug": "bauchi-alkaleri",
+      "markets": []
+    },
+    {
+      "name": "Bauchi",
+      "slug": "bauchi-bauchi",
+      "markets": []
+    },
+    {
+      "name": "Bogoro",
+      "slug": "bauchi-bogoro",
+      "markets": []
+    },
+    {
+      "name": "Damban",
+      "slug": "bauchi-damban",
+      "markets": []
+    },
+    {
+      "name": "Darazo",
+      "slug": "bauchi-darazo",
+      "markets": []
+    },
+    {
+      "name": "Dass",
+      "slug": "bauchi-dass",
+      "markets": []
+    },
+    {
+      "name": "Gamawa",
+      "slug": "bauchi-gamawa",
+      "markets": []
+    },
+    {
+      "name": "Ganjuwa",
+      "slug": "bauchi-ganjuwa",
+      "markets": []
+    },
+    {
+      "name": "Giade",
+      "slug": "bauchi-giade",
+      "markets": []
+    },
+    {
+      "name": "Itas/Gadau",
+      "slug": "bauchi-itas-gadau",
+      "markets": []
+    },
+    {
+      "name": "Jama'are",
+      "slug": "bauchi-jama-are",
+      "markets": []
+    },
+    {
+      "name": "Katagum",
+      "slug": "bauchi-katagum",
+      "markets": []
+    },
+    {
+      "name": "Kirfi",
+      "slug": "bauchi-kirfi",
+      "markets": []
+    },
+    {
+      "name": "Misau",
+      "slug": "bauchi-misau",
+      "markets": []
+    },
+    {
+      "name": "Ningi",
+      "slug": "bauchi-ningi",
+      "markets": []
+    },
+    {
+      "name": "Shira",
+      "slug": "bauchi-shira",
+      "markets": []
+    },
+    {
+      "name": "Tafawa Balewa",
+      "slug": "bauchi-tafawa-balewa",
+      "markets": []
+    },
+    {
+      "name": "Toro",
+      "slug": "bauchi-toro",
+      "markets": []
+    },
+    {
+      "name": "Warji",
+      "slug": "bauchi-warji",
+      "markets": []
+    },
+    {
+      "name": "Zaki",
+      "slug": "bauchi-zaki",
+      "markets": []
+    }
+  ]
+}

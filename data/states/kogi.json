@@ -1,0 +1,111 @@
+{
+  "name": "Kogi",
+  "slug": "kogi",
+  "lgas": [
+    {
+      "name": "Adavi",
+      "slug": "kogi-adavi",
+      "markets": []
+    },
+    {
+      "name": "Ajaokuta",
+      "slug": "kogi-ajaokuta",
+      "markets": []
+    },
+    {
+      "name": "Ankpa",
+      "slug": "kogi-ankpa",
+      "markets": []
+    },
+    {
+      "name": "Bassa",
+      "slug": "kogi-bassa",
+      "markets": []
+    },
+    {
+      "name": "Dekina",
+      "slug": "kogi-dekina",
+      "markets": []
+    },
+    {
+      "name": "Ibaji",
+      "slug": "kogi-ibaji",
+      "markets": []
+    },
+    {
+      "name": "Idah",
+      "slug": "kogi-idah",
+      "markets": []
+    },
+    {
+      "name": "Igalamela-Odolu",
+      "slug": "kogi-igalamela-odolu",
+      "markets": []
+    },
+    {
+      "name": "Ijumu",
+      "slug": "kogi-ijumu",
+      "markets": []
+    },
+    {
+      "name": "Kabba/Bunu",
+      "slug": "kogi-kabba-bunu",
+      "markets": []
+    },
+    {
+      "name": "Koton Karfe",
+      "slug": "kogi-koton-karfe",
+      "markets": []
+    },
+    {
+      "name": "Lokoja",
+      "slug": "kogi-lokoja",
+      "markets": []
+    },
+    {
+      "name": "Mopa-Muro",
+      "slug": "kogi-mopa-muro",
+      "markets": []
+    },
+    {
+      "name": "Ofu",
+      "slug": "kogi-ofu",
+      "markets": []
+    },
+    {
+      "name": "Ogori/Magongo",
+      "slug": "kogi-ogori-magongo",
+      "markets": []
+    },
+    {
+      "name": "Okehi",
+      "slug": "kogi-okehi",
+      "markets": []
+    },
+    {
+      "name": "Okene",
+      "slug": "kogi-okene",
+      "markets": []
+    },
+    {
+      "name": "Olamaboro",
+      "slug": "kogi-olamaboro",
+      "markets": []
+    },
+    {
+      "name": "Omala",
+      "slug": "kogi-omala",
+      "markets": []
+    },
+    {
+      "name": "Yagba East",
+      "slug": "kogi-yagba-east",
+      "markets": []
+    },
+    {
+      "name": "Yagba West",
+      "slug": "kogi-yagba-west",
+      "markets": []
+    }
+  ]
+}

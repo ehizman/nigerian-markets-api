@@ -1,0 +1,91 @@
+{
+  "name": "Plateau",
+  "slug": "plateau",
+  "lgas": [
+    {
+      "name": "Barkin Ladi",
+      "slug": "plateau-barkin-ladi",
+      "markets": []
+    },
+    {
+      "name": "Bassa",
+      "slug": "plateau-bassa",
+      "markets": []
+    },
+    {
+      "name": "Bokkos",
+      "slug": "plateau-bokkos",
+      "markets": []
+    },
+    {
+      "name": "Jos East",
+      "slug": "plateau-jos-east",
+      "markets": []
+    },
+    {
+      "name": "Jos North",
+      "slug": "plateau-jos-north",
+      "markets": []
+    },
+    {
+      "name": "Jos South",
+      "slug": "plateau-jos-south",
+      "markets": []
+    },
+    {
+      "name": "Kanam",
+      "slug": "plateau-kanam",
+      "markets": []
+    },
+    {
+      "name": "Kanke",
+      "slug": "plateau-kanke",
+      "markets": []
+    },
+    {
+      "name": "Langtang North",
+      "slug": "plateau-langtang-north",
+      "markets": []
+    },
+    {
+      "name": "Langtang South",
+      "slug": "plateau-langtang-south",
+      "markets": []
+    },
+    {
+      "name": "Mangu",
+      "slug": "plateau-mangu",
+      "markets": []
+    },
+    {
+      "name": "Mikang",
+      "slug": "plateau-mikang",
+      "markets": []
+    },
+    {
+      "name": "Pankshin",
+      "slug": "plateau-pankshin",
+      "markets": []
+    },
+    {
+      "name": "Qua'an Pan",
+      "slug": "plateau-qua-an-pan",
+      "markets": []
+    },
+    {
+      "name": "Riyom",
+      "slug": "plateau-riyom",
+      "markets": []
+    },
+    {
+      "name": "Shendam",
+      "slug": "plateau-shendam",
+      "markets": []
+    },
+    {
+      "name": "Wase",
+      "slug": "plateau-wase",
+      "markets": []
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Gombe",
+  "slug": "gombe",
+  "lgas": [
+    {
+      "name": "Akko",
+      "slug": "gombe-akko",
+      "markets": []
+    },
+    {
+      "name": "Balanga",
+      "slug": "gombe-balanga",
+      "markets": []
+    },
+    {
+      "name": "Billiri",
+      "slug": "gombe-billiri",
+      "markets": []
+    },
+    {
+      "name": "Dukku",
+      "slug": "gombe-dukku",
+      "markets": []
+    },
+    {
+      "name": "Funakaye",
+      "slug": "gombe-funakaye",
+      "markets": []
+    },
+    {
+      "name": "Gombe",
+      "slug": "gombe-gombe",
+      "markets": []
+    },
+    {
+      "name": "Kaltungo",
+      "slug": "gombe-kaltungo",
+      "markets": []
+    },
+    {
+      "name": "Kwami",
+      "slug": "gombe-kwami",
+      "markets": []
+    },
+    {
+      "name": "Nafada",
+      "slug": "gombe-nafada",
+      "markets": []
+    },
+    {
+      "name": "Shongom",
+      "slug": "gombe-shongom",
+      "markets": []
+    },
+    {
+      "name": "Yamaltu/Deba",
+      "slug": "gombe-yamaltu-deba",
+      "markets": []
+    }
+  ]
+}
