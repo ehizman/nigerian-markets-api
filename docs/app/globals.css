@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+@import 'fumadocs-ui/css/neutral.css';
+@import 'fumadocs-ui/css/preset.css';
+@import 'fumadocs-openapi/css/preset.css';
+
+:root {
+  --fd-primary: 15 118 110;
+}
+
+body {
+  font-family: var(--font-geist-sans), sans-serif;
+}

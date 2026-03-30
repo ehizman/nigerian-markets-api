@@ -9,11 +9,11 @@ import lgasApi from './api/lgas';
 import marketsApi from './api/markets';
 import contributeApi from './api/contribute';
 import { HomePage } from './pages/home';
+import { DocsPage } from './pages/docs';
 import { ContributePage } from './pages/contribute';
 import { NotFoundPage } from './pages/not-found';
 
 const app = new Hono<{ Bindings: Bindings }>();
-const FALLBACK_DOCS_URL = 'https://github.com/ifihan/nigerian-markets-api/blob/main/docs/index.mdx';
 
 // API middleware
 app.use('/api/*', cors());
@@ -32,8 +32,6 @@ app.use(
 
 // API index
 app.get('/api', (c) => {
-  const docsUrl = c.env.DOCS_URL || FALLBACK_DOCS_URL;
-
   return c.json({
     name: 'Iya Oloja',
     description: 'An open directory and API for markets across Nigeria',
@@ -46,7 +44,7 @@ app.get('/api', (c) => {
       search: '/api/search?q=query',
       contribute: 'POST /api/contribute',
     },
-    docs: docsUrl,
+    docs: '/docs',
     github: 'https://github.com/ifihan/nigerian-markets-api',
   });
 });
@@ -66,8 +64,11 @@ app.get('/', (c) => {
 });
 
 app.get('/docs', (c) => {
-  const docsUrl = c.env.DOCS_URL || FALLBACK_DOCS_URL;
-  return c.redirect(docsUrl, 302);
+  if (c.env.DOCS_URL) {
+    return c.redirect(c.env.DOCS_URL, 302);
+  }
+
+  return c.render(<DocsPage />, { title: 'Docs — Iya Oloja' });
 });
 
 app.get('/contribute', (c) => {

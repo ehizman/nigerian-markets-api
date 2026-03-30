@@ -1,11 +1,17 @@
 ---
 title: Quickstart
-description: Make your first requests to the Iya Oloja API in a few minutes.
+description: Make your first requests to the Iya Oloja API.
 ---
 
 # Quickstart
 
 The API is public and does not require authentication. All endpoints return JSON.
+
+## Base URL
+
+```bash
+https://iya-oloja.pages.dev/api
+```
 
 ## List states
 
@@ -45,27 +51,4 @@ curl -X POST https://iya-oloja.pages.dev/api/contribute \
     "description": "One of the largest markets in Lagos",
     "contributor_name": "your-github-username"
   }'
-```
-
-## Common response shape
-
-Successful requests return `success: true` and a `data` field.
-
-```json
-{
-  "success": true,
-  "data": []
-}
-```
-
-Errors return `success: false` and an `error` object.
-
-```json
-{
-  "success": false,
-  "error": {
-    "message": "Query parameter \"q\" is required",
-    "code": "BAD_REQUEST"
-  }
-}
 ```

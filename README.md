@@ -10,12 +10,12 @@ Base URL: `https://iya-oloja.pages.dev/api` (or your deployed URL)
 
 No authentication required. All responses are JSON.
 
-The API docs are now being migrated to a Mintlify workspace backed by an OpenAPI spec:
+The API docs are now powered by a separate FumaDocs app in this repository:
 
-- Docs source: [`docs/index.mdx`](docs/index.mdx)
-- API reference overview: [`docs/api-reference/overview.mdx`](docs/api-reference/overview.mdx)
-- OpenAPI contract: [`docs/openapi/openapi.yaml`](docs/openapi/openapi.yaml)
-- Hosted docs redirect: set `DOCS_URL` in your deployment environment so `/docs` redirects to the published Mintlify site
+- FumaDocs app: [`docs/`](docs)
+- Docs content: [`docs/content/docs/`](docs/content/docs)
+- OpenAPI contract: [`openapi/openapi.yaml`](openapi/openapi.yaml)
+- Hosted docs redirect: set `DOCS_URL` in your deployment environment so `/docs` redirects to the published FumaDocs site
 
 ### Example
 
@@ -122,6 +122,16 @@ npm run dev
 | `npm run seed` | Regenerate state JSON files (clears markets!) |
 | `npm run validate` | Validate all data files |
 | `npm run db:migrate` | Run D1 migrations locally |
+
+### Docs App
+
+The docs site lives in `docs/` as a separate Next.js + FumaDocs app.
+
+```bash
+cd docs
+npm install
+npm run dev
+```
 
 ### Tech Stack
 
