@@ -3,11 +3,11 @@ import type { BaseLayoutProps } from 'fumadocs-ui/layouts/shared';
 export function baseOptions(): BaseLayoutProps {
   return {
     nav: {
-      title: 'Iya Oloja',
+      title: 'Iya Oloja API',
     },
     links: [
       {
-        text: 'API',
+        text: 'Live API',
         url: 'https://iya-oloja.pages.dev/api',
       },
       {
@@ -17,7 +17,7 @@ export function baseOptions(): BaseLayoutProps {
     ],
     githubUrl: 'https://github.com/ifihan/nigerian-markets-api',
     searchToggle: {
-      enabled: true,
+      enabled: false,
     },
   };
 }

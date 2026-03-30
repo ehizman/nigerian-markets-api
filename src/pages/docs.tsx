@@ -15,6 +15,10 @@ export const DocsPage: FC = () => {
           Once the FumaDocs site is deployed, this route will automatically redirect there through the <code>DOCS_URL</code>{' '}
           environment variable.
         </p>
+        <p>
+          The deployed docs site is designed to open directly into the interactive API reference rather than a general
+          marketing-style docs homepage.
+        </p>
       </section>
 
       <section class="endpoint">

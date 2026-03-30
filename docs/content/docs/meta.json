@@ -1,4 +1,4 @@
 {
-  "title": "Iya Oloja Docs",
-  "pages": ["index", "quickstart", "contributing"]
+  "title": "Iya Oloja API",
+  "pages": ["index", "...openapi"]
 }

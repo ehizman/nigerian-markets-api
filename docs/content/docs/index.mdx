@@ -1,23 +1,32 @@
 ---
-title: Iya Oloja API
+title: Overview
 description: Public JSON API for markets across all 36 states of Nigeria and the FCT.
 ---
 
-# Iya Oloja API
+# Overview
 
-Iya Oloja is a free JSON API for discovering markets across Nigeria. It is designed for developers who want simple read access to market, LGA, and state data without authentication.
+Iya Oloja is a free JSON API for discovering markets across Nigeria.
 
-## What you can do
+## Base URL
 
-- List all states and the FCT
-- Fetch a state together with its LGAs
-- Fetch an LGA together with its parent state and markets
-- Paginate through all markets
-- Search by market, LGA, or state name
-- Submit new market suggestions for review
+```bash
+https://iya-oloja.pages.dev/api
+```
 
-## Start here
+## Use the interactive reference
 
-- Read the [Quickstart](./quickstart)
-- Review the [Contributing Data](./contributing) guide
-- Open the generated API reference under the `API Reference` section in the sidebar
+The main API experience lives in the generated `API Reference` section. Open any endpoint there to inspect parameters, example payloads, and run requests interactively.
+
+## Endpoints
+
+- `GET /api`
+- `GET /api/states`
+- `GET /api/states/{state}`
+- `GET /api/lgas/{lga}`
+- `GET /api/markets`
+- `GET /api/search`
+- `POST /api/contribute`
+
+## Contribution flow
+
+Use `POST /api/contribute` to submit a market suggestion for review, or open the main app's `/contribute` page if you want a form-based flow.
