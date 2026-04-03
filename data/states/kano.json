@@ -124,6 +124,15 @@
           "slug": "kantin-kwari-market",
           "coordinates": { "lat": 11.9944, "lng": 8.5156 },
           "added_by": "ifihan"
+        },
+        {
+          "name": "Kofar Wambai Market, Fagge",
+          "slug": "kofar-wambai-market",
+          "coordinates": { 
+            "lat": 12.00696585532123,
+            "lng": 8.529061210666914 
+          },
+          "added_by": "ehizman"
         }
       ]
     },
